@@ -9,4 +9,4 @@ Add as needed: ref to MC privacy policy (perhaps only for MC.org?). Example of [
 Choose appropriate
 
 ## Citations and acknowledgments
-Cite, link as necessary. Testing Github Desktop.
+Cite, link as necessary.
