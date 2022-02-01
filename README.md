@@ -12,3 +12,4 @@ Choose appropriate
 
 ## Citations and acknowledgments
 Cite, link as necessary.
+Link to playbook: https://preparecenter.org/responsible-data-data-playbook-beta/. 
