@@ -13,10 +13,10 @@ A Privacy Impact Assessment allows you to analyze how a particular project or ne
 ## Principles
 The principles behind a PIA are similar to those for any secure use of personal data. As outlined by the  [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/) these principles are:
 
-- Identify the privacy risks to individuals
-- Identify the privacy and data protection compliance liabilities for the organization
-- Protect the organization’s reputation and instill public confidence in the program
-- Ensure that the organization is promoting human rights in its humanitarian activities
+- Identify the privacy risks to individuals.
+- Identify the privacy and data protection compliance liabilities for your organization.
+- Protect the organization’s reputation and instill public confidence in the program.
+- Ensure that the organization is promoting human rights in its humanitarian activities.
 
 ## Instructions or Guidance
 This section includes a guidance video to walk you through the Mercy Corps PIA.
