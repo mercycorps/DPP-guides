@@ -1,5 +1,5 @@
 *Tasks to finish this section:*
-- [ ] Edit text - this draft still needs to be shortened up: make the principles more direct and consolidated. Anything GDrive specific should go in instructions.
+- [ ] Edit text - this draft still needs to be shortened up: make the principles more direct and tech agnostic. Anything GDrive specific should go in instructions.
 - [ ] Clear on text
 - [ ] Link to other assets that are part of the section (e.g. instructions, video, or translations)
 - [ ] Link to guidance video - **there are millions of these online already: should we just pick one on Vimeo and YouTube (diff platforms are banned in some countries) instead of paying for something new?**
@@ -45,22 +45,9 @@ and that is the best practice.
   - If a file copy is made, or the file is moved, be aware it will not have the same permissions as the original file unless you explicitly set those permissions.
 
 ## Instructions or Guidance
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step1.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step2.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step3a.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step3b.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step4.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step5.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step6.png)
-As needed per section.
-![Uploading a file](images/Filesharing_Gdrive_Step7.png)
+> For step-by-step instructions...
+
+> Video tutorial links...
 
 ## Further Assistance
 This document will not cover file sharing in Google’s shared drives, nor external file sharing platforms. To learn more about these, visit Google’s [Best practices for shared drives](https://support.google.com/a/users/answer/9310352?hl=en) or [managing shared drives page](https://support.google.com/a/topic/7337266?hl=en&ref_topic=2490075). Each of these pages is available in a variety of languages: scroll to the bottom of the page to select your language.
