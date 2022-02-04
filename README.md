@@ -12,4 +12,5 @@ Choose appropriate
 
 ## Citations and acknowledgments
 Cite, link as necessary.
-Link to playbook: https://preparecenter.org/responsible-data-data-playbook-beta/. 
+Link to playbook: https://preparecenter.org/responsible-data-data-playbook-beta/.
+Link to ELAN Data Starter Kit: https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf

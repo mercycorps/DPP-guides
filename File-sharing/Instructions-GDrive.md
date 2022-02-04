@@ -23,8 +23,8 @@ A calendar will appear. Navigate to the month when access should expire, and cli
 The calendar will disappear, and the display date will change. Once you can see that access will expire on the correct date, click Save.
 ![Uploading a file](images/Filesharing_Gdrive_Step6.png)
 
-## Step 5
-If you have concerns about others taking inappropriate actions with the content, there are additional options from the settings screen. File settings can be accessed from the gear icon in the upper right of the sharing window. Click the gear and you’ll see options to restrict further sharing, or disabling the option to download, print or copy. For any feature you want to disable, simply uncheck the box. The file will quickly update, saving the new setting. 
+## Step 5 - Additional Options
+If you have concerns about others taking inappropriate actions with the content, there are additional options from the settings screen. File settings can be accessed from the gear icon in the upper right of the sharing window. Click the gear and you’ll see options to restrict further sharing, or disabling the option to download, print or copy. For any feature you want to disable, simply uncheck the box. The file will quickly update, saving the new setting.
 ![Uploading a file](images/Filesharing_Gdrive_Step7.png)
 
 ## Further Assistance
