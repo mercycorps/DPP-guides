@@ -10,6 +10,6 @@ Principles and strategies for specific activities that are common in Mercy Corps
 
 ## Instructions or Guidance
 As needed per section.
-
+There is both "Guidance for processing of sensitive data" ([here in DL](https://library.mercycorps.org/record/38516)) and "Sensitive Information Assessment (SIA) Template" ([here in DL](https://library.mercycorps.org/record/38611)).
 ## Further Assistance
 Link out to other resources.
