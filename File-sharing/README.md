@@ -1,5 +1,5 @@
 *Tasks to finish this section:*
-- [ ] Edit text - this draft still needs to be shortened up: make the principles more direct and tech agnostic. Anything GDrive specific should go in instructions.
+- [X] Edit text - this draft still needs to be shortened up: make the principles more direct and tech agnostic. Anything GDrive specific should go in instructions.
 - [ ] Clear on text
 - [ ] Link to other assets that are part of the section (e.g. instructions, video, or translations)
 - [ ] Link to guidance video - **there are millions of these online already: should we just pick one on Vimeo and YouTube (diff platforms are banned in some countries) instead of paying for something new?** need to validate against what we can do in our Google account.
