@@ -16,6 +16,7 @@ Enter the email address address for the person you want to share with, then choo
 ![Uploading a file](images/Filesharing_Gdrive_Step3a.png)
 
 Another option is to send a separate email with a link to the file. To notify separately via email, uncheck the `Notify people` box. After clicking `Done`,  right click the file and choose `Get Link`. In the new popup window, click the `Copy link` button, and paste it into your email.
+
 ![Uploading a file](images/Filesharing_Gdrive_Step3b.png)
 
 - To learn more about access levels, visit [Share and collaborate in My Drive](https://support.google.com/a/users/answer/9310248?hl=en).
