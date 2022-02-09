@@ -14,6 +14,7 @@ To share the file, right-click it and then click `Share`.
 ## Step 3 - Select level of access
 Enter the email address address for the person you want to share with, then choose the level of access. Google defaults to `Editor` access, which is only appropriate for team members who need full access to the dcocument. When you are engaging stakeholders for feedback, choose `Viewer` or `Commenter`. Best practice is to notify the person, and add a message, explaining why you’ve shared the file. To notify, leave that box checked. When done with changes, click `Send`.
 ![Uploading a file](images/Filesharing_Gdrive_Step3a.png)
+
 Another option is to send a separate email with a link to the file. To notify separately via email, uncheck the `Notify people` box. After clicking `Done`,  right click the file and choose `Get Link`. In the new popup window, click the `Copy link` button, and paste it into your email.
 ![Uploading a file](images/Filesharing_Gdrive_Step3b.png)
 
@@ -22,10 +23,14 @@ Another option is to send a separate email with a link to the file. To notify se
 
 ## Step 4 - Temporary Access
 Once permission has been granted, the sharing time period can be shortened. To limit access, right click the file again, and click `Share`. Find the email address you just shared with and right click the access level. You will see new options appear, so click on `Give temporary access`.
+
 ![Uploading a file](images/Filesharing_Gdrive_Step4.png)
+
 A calendar will appear. Navigate to the month when access should expire, and click the corresponding date.
 ![Uploading a file](images/Filesharing_Gdrive_Step5.png)
-The calendar will disappear, and the display date will change. Once you can see that access will expire on the correct date, click Save.
+
+The calendar will disappear, and the display date will change. Once you can see that access will expire on the correct date, click `Save`.
+
 ![Uploading a file](images/Filesharing_Gdrive_Step6.png)
 
 ## Step 5 - Additional Options
@@ -38,7 +43,7 @@ If you have concerns about others taking inappropriate actions with the content,
   - Once a file has been shared, you may have the option to `Make a Copy` and/or `Move` the file to another location. Never move a file without the owner’s permission!
   - If you need to see the file in your My Drive or in a secondary location, the best practice is to use the [Add shortcut to Drive](https://support.google.com/drive/answer/9700156?hl=en&co=GENIE.Platform%3DDesktop) option.
   - If a file copy is made, or the file is moved, be aware it will not have the same permissions as the original file unless you explicitly set those permissions.
-  
+
 ## Further Assistance
 This document will not cover file sharing in Google’s shared drives, nor external file sharing platforms. To learn more about these, visit Google’s [Best practices for shared drives](https://support.google.com/a/users/answer/9310352?hl=en) or [managing shared drives page](https://support.google.com/a/topic/7337266?hl=en&ref_topic=2490075). Each of these pages is available in a variety of languages: scroll to the bottom of the page to select your language.
 
