@@ -1,3 +1,10 @@
+*Tasks to finish this section:*
+- [X] Edit text.
+- [ ] Clear on text - Ensure IT has seen this and confirms best practices.
+- [ ] Link to other assets that are part of the section (e.g. related sections, video, or translations)
+- [ ] Link to guidance video.
+- [ ] Delete this list!
+
 # Encrypting a File
 This section addresses a basic example of encrypting a file using a Microsoft feature available on Mercy Corps computers. There are a range of factors to consider when encrypting a file, but here we focus on using a password and encryption of a single file. See the links below for resources that explore encryption in more depth. For this guide, however, it useful to understand the subtle difference between "password protection" and "encryption".
 
@@ -13,9 +20,8 @@ Encryption is important because it helps ensure the privacy and security of info
 - In a team environment, encryption is only as good as the weakest link. If even one person fails to use encryption, your program data is at risk. It is extremely important to communicate this to your team: encryption is not just an issue of technology, but of behavior change as well.
 - Understand laws that govern encryption in your country. Local laws in a number of countries (such as Sudan, Yemen and Pakistan) place limits on encryption software. When in doubt, ask your local IT team for advice.
 
-## Instructions or Guidance
-As needed per section.
-Basic password encryption in Windows 10: https://support.microsoft.com/en-us/office/protect-a-document-with-a-password-05084cc3-300d-4c1a-8416-38d3e37d6826
+## Instructions
+
 1. Open the Word, Excel, or PowerPoint file you want to encrypt and select the `File` menu.
 ![Uploading a file](images/Encrypt1.png)
 
