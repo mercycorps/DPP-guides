@@ -18,6 +18,8 @@ on encryption software.
 ## Instructions or Guidance
 As needed per section.
 Basic password encryption in Windows 10: https://support.microsoft.com/en-us/office/protect-a-document-with-a-password-05084cc3-300d-4c1a-8416-38d3e37d6826
+- best to host the file on a Mercy Corps approved system, such as Gsuite or OneDrive.
+- don't seen password and file / link at the same time. 
 
 ## Further Assistance
 - The Electronic Cash Transfer Learning Action Network's [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a tip sheet for encryption (see Tip sheet #5).
