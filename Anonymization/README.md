@@ -25,6 +25,8 @@ complying with their data protection obligations; and
 
 ## Instructions or Guidance
 As needed per section.
+Exercise here: https://www.excel-exercise.com/anonymise-your-data/
+Create data set. 
 
 ## Further Assistance
 Link out to other resources.

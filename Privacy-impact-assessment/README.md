@@ -31,7 +31,7 @@ In general, a PIA will require the following steps:
 Remember that:
 - A PIA is a _process_ used to identify and minimize the privacy risks. Completing a PIA form is not the end of the process! Revisit the form at regular intervals (e.g. six months) to make sure there are no new changes to a project that introduces new risks. If there are, go through the process of documenting mitigation strategies again to minimize any new risk.
 - Conducting a PIA involves working with people at Mercy Corps, but also with partner organizations and others to identify and reduce privacy risks. For example, if you are using a new technology, you may need to research whether the company you are working with has a privacy policy and what technological safeguards they use to ensure data are protected. You may also need to educate yourself about relevant privacy regulations in your country of operation.
-- A PIA will help to ensure that potential problems are identified at an early stage, when addressing them will often be simpler, less costly, and will not risk harming program participants or staff. We recommend creating an action list to ensure that each action required to ensure data protection and privacy has an owner and will get completed.
+- A PIA ensures that potential problems are identified early on, when addressing them will often be simpler, less costly, and not risk harming program participants or staff. We recommend creating an action list to ensure that each action required to ensure data protection and privacy has an owner and will get completed.
 - It can be helpful to compare PIAs of similar programs. You can conduct this research on your own or reach out to the Data Protection and Privacy team for assistance.
 
 ## Further Assistance
