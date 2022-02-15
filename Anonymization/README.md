@@ -1,4 +1,10 @@
 # Section Title
+De-identification: Any data processing activities or methods that work to prevent a Data Subject’s identity from being revealed. Example types: Anonymization and Pseudonymization
+
+Anonymization: The process by which Personal Data is rendered anonymous, such that a Data Subject is no longer identifiable. Common methods include removing certain amounts of Personal Data, or applying a range of values across certain sets of Personal Data.
+
+Pseudonymization: the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person.
+---
 Anonymization is a process by which personal data is irreversibly altered, either by removing or modifying the identifying variables, in such a way that a data subject can no longer be identified directly or indirectly.
 
 Pseudonymization takes personal data and ensures that it can’t be linked back to one source or single user without additional data. For instance, if a company has your name, email address, age, nationality, and workplace name, pseudonymization takes the data that’s identifiable about you specifically (your name, age, etc.) and makes it inaccessible and separate from non-identifying data, like your nationality. Pseudonymous data *can* be put back together at some point so that all information can be taken together and linked back to a specific source or person.
@@ -26,7 +32,7 @@ complying with their data protection obligations; and
 ## Instructions or Guidance
 As needed per section.
 Exercise here: https://www.excel-exercise.com/anonymise-your-data/
-Create data set. 
+Create data set.
 
 ## Further Assistance
 Link out to other resources.
