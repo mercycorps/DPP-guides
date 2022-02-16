@@ -36,7 +36,7 @@ Whenever you share documents, you should consider the following:
   - Moving files may alter who has access and make it impossible for others to find the file! Always check with the document owner before moving a shared file to a new location.
 
 ## Instructions
-Follow the instructions for [file sharing in Gdrive here](File-sharing\Instructions-GDrive.md).  
+Follow the instructions for [file sharing in Gdrive here](Instructions-GDrive.md).  
 
 ## Further Assistance
 How and with whom you will share data should be part of a larger strategy for the data life cycle of a program or activity. There are several resources that can help you.
