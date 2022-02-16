@@ -33,7 +33,7 @@ should be explicit and legitimate.
 - **Technology changes**: new datasets and new tools for analyzing them change and advance rapidly and so do the means by which data are hacked or stolen. It is important to understand new and emerging risks to your data and continue to adjust your methods and practices accordingly.
 
 ## Instructions or Guidance - finish
-You can follow the [Pseudonymization-instructions](Deidentification/Pseudonymization-instructions.md) to walk through a basic example of pseudonymizing a data set. The exercise uses [a sample data set found in the data folder here](Deidentification/data/Pseudonymization_example.csv).
+You can follow the [Pseudonymization-instructions](Pseudonymization-instructions.md) to walk through a basic example of pseudonymizing a data set. The exercise uses [a sample data set found in the data folder here](data/Pseudonymization_example.csv).
 
 Once you have pseudonymized the sample data, you can continue with with the Humanitarian Data Centre's tutorial [for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) on the remaining portion of the sample data.
 
