@@ -37,3 +37,4 @@ Remember that:
 ## Further Assistance
 - The Electronic Cash Transfer Learning Action Network's [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a tip sheet for PIAs (see Tip sheet #1).
 - The Information Commissioner's Office of the UK provides [a detailed code of practice for conducing privacy impact assessments](https://ico.org.uk/media/about-the-ico/consultations/2052/draft-conducting-privacy-impact-assessments-code-of-practice.pdf).
+- The [International Committee of the Red Cross' *Handbook on Data Protection in Humanitarian Action*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) is a detailed guide to almost every aspect of humanitarian data. Chapter 5 specifically deals with privacy impact assessments.

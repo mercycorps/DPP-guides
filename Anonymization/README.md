@@ -1,4 +1,4 @@
-# Section Title
+# Deidentifying Data
 This section provides an example of removing personally identifiable information (PII) from a dataset. There are several ways to "de-identify" data: any processing activities or methods that work to prevent a Data Subject’s identity from being revealed. Two common types of de-identification are "Anonymization" and "Pseudonymization."
 
 **Anonymization** is the process by which Personal Data is rendered *anonymous* so that a Data Subject is no longer identifiable: it is a permanent change to the data. Common methods include removing personally identifiable information or scrambling values across certain sets of PII.
@@ -25,9 +25,12 @@ There is no single answer about when to choose one method over another and it is
  - allowing organizations to create open or publicly accessible data while still complying with their data protection obligations.
 
 ## Principles
-- Data Minimization is a core principle of responsible data management and one way to minimize the amount of personal or sensitive data that you manage is to de-identify it.
-- De-identification methods must comply with regional, national, or local principles: be aware that some country-specific and local legislation or policies may limit what data can be de-identified and how certain technologies are used.
-- Technology changes: new datasets, and new tools for analyzing them change and advance rapidly. It's important to understand new and emerging risks to your data and continue to adjust your methods and practices accordingly.
+De-identifying data is part of data processing and personal data processing undertaken by Humanitarian Organizations should comply with the following principles.
+- Fairness and lawfulness of processing: methods must comply with regional, national, or local legislation or policies may limit what data can be de-identified and how certain technologies are used. Any Processing of Personal Data should be transparent for the data subjects involved.
+- Purpose limitation: humanitarian organizations should determine and set out the specific purposes for which data are processed. These purposes
+should be explicit and legitimate.
+- Proportionality: ensure a particular activity related to the processing of personal data is appropriate for the stated goal. For example: is only the minimum required amount of data being collected? Are appropriate technical and organizational measures in place to reduce the risks associated with data processing?
+- Technology changes: new datasets and new tools for analyzing them change and advance rapidly and so do the means by which data are hacked or stolen. It is important to understand new and emerging risks to your data and continue to adjust your methods and practices accordingly.
 
 ## Instructions or Guidance - finish
 The following instructions walk through a basic example of pseudonymizing a data set. Begin the exercise here. **Exercise here: https://www.excel-exercise.com/anonymise-your-data/
@@ -35,5 +38,9 @@ Create data set.**
 
 To further ensure that the data set are fully anonymized, continue with the Humanitarian Data Centre's tutorial [for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/).
 
-## Further Assistance - finish
-it's complex, you need to learn more... start here...
+## Further Assistance
+Deidentifying data is part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more compelte understanding of managing your data responsibly.
+- The [Cash Learning Partnership's *Data Responsibility Toolkit*](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf) is designed for cash and voucher practitioners specifically, but is a "gold standard" in guidance for responsible data. The Toolkit is also available in [Arabic](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/); [French](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/); and [Spanish](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
+- The [electronic Cash Transfer Learning Action Network's *Data Starter Kit for Humanitarian Field Staff*](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a series of data tip sheets for understanding various aspects of good data management and protection practices.
+- The [International Committee of the Red Cross' *Handbook on Data Protection in Humanitarian Action*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) is a detailed guide to almost every aspect of humanitarian data. Chapter 2 specifically deals with deidentifying data.
+- The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities. The section on []*Sharing Data*](https://the-engine-room.github.io/responsible-data-handbook/chapters/chapter-02c-sharing-data.html) specifically deals with deidentification. 
