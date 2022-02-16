@@ -31,13 +31,15 @@ Whenever you share documents, you should consider the following:
 - **Risky content requires extra steps**
   - Personally identifiable information (PII), demographically identifiable information (DII), or other types of personal data are protected under multiple data protection laws. Before you share personal data, verify the legal requirements for sharing that information with others. Inappropriate personal data sharing can put program participants, donors, partners and Mercy Corps team members at risk. If you have questions about personal data or data protection laws, please email the Data Protection and Privacy team at dataprotection@mercycorps.org.
   - If the information is considered confidential or proprietary for business purposes, share it only with required parties and consider granting temporary access.
-  - If the person receiving the file works in an insecure location, or if the contents include personal data, consider encrypting the file or protecting it with password protection. See the section on encryption here [add link](www.link.com).
+  - If the person receiving the file works in an insecure location, or if the contents include personal data, consider encrypting the file or protecting it with password protection. See the section on encryption.
 - **Don't move files without the owner's permission.**
   - Moving files may alter who has access and make it impossible for others to find the file! Always check with the document owner before moving a shared file to a new location.
 
-## Instructions or Guidance - add
-> For step-by-step instructions...
+## Instructions
+Follow the instructions for [file sharing in Gdrive here](File-sharing\Instructions-GDrive.md).  
 
-> Video tutorial links...
-
-## Further Assistance - add
+## Further Assistance
+How and with whom you will share data should be part of a larger strategy for the data life cycle of a program or activity. There are several resources that can help you.
+- The International Federation of Red Cross and Red Crescent Societies (IFRC) [*Data Playbook*](https://preparecenter.org/toolkit/data-playbook-toolkit/) is an excellent resource of exercises, session plans, checklists, and other materials to help you organize conversations and activities with your team. In particular, [Module 7 - Data Sharing(https://preparecenter.org/data-sharing-data-playbook-beta/)] is a good place to start.
+- The [International Committee of the Red Cross' *Handbook on Data Protection in Humanitarian Action*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) is a detailed guide to almost every aspect of humanitarian data. Chapter 2 specifically deals with data sharing.
+- The [Cash Learning Partnership's *Data Responsibility Toolkit*](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf) is designed for cash and voucher practitioners specifically, but is a "gold standard" in guidance for responsible data. See especially, *Tip Sheet #6, "Data Sharing"*. The Toolkit is also available in [Arabic](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/); [French](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/); and [Spanish](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
