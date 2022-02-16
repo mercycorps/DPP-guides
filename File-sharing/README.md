@@ -35,9 +35,9 @@ Whenever you share documents, you should consider the following:
 - **Don't move files without the owner's permission.**
   - Moving files may alter who has access and make it impossible for others to find the file! Always check with the document owner before moving a shared file to a new location.
 
-## Instructions or Guidance
+## Instructions or Guidance - add
 > For step-by-step instructions...
 
 > Video tutorial links...
 
-## Further Assistance
+## Further Assistance - add
