@@ -1,13 +1,13 @@
 # Data Protection & Privacy Guide
-Summary & Explainer
+This guide is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings together several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The guide is composed of the following sections:
 
-- Sensitive data:
-- Privacy Impact Assessment:
-- Deidentification:
-- Encryption:
-- File sharing:
+- **Sensitive data** - will help you understand what sensitive data is and provide guidance for its collection and use.
+- **Privacy Impact Assessment (PIA)** - provides details regarding PIA and the assessment templates required by Mercy Corps Responsible Data policy
+- **Deidentification** - contains an overview of deidentification - including anonymization and pseudonymization - and an example or one way to deidentify a dataset using spreadsheet software.
+- **Encryption** - provides an brief overview of encryption and provides an example or one way to encrypt a file using software available within Mercy Corps.
+- **File sharing** - presents an overview of best practices using Gsuite at Mercy Corps and a brief tutorial.
 
-Definitely link to relevant MC policies / [public site](https://www.mercycorps.org/research-resources/responsible-data-toolkit)?
+While the guide is primarily intended for Mercy Corps staff, and is designed to accompany the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit) we are releasing it under open license in the hopes that it may be beneficial to partners, peer-organizations, and others in need of example policies, templates, and instructions for implementing responsible data practices.
 
 ## Citations and acknowledgments
 The content provided in this guide is all part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections as part of each section.
@@ -19,6 +19,8 @@ The content provided in this guide is all part of good data management practices
 - The Humanitarian Data Centre's [online tutorial for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) is a very specific, technical resource, but one that is indispensable for truly reducing the risk of data being used to identify individuals.
 - The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
 
+
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
@@ -28,3 +30,8 @@ This work is licensed under a
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+<!--
+## How to Contribute
+It would also be good to add a contributors section. [Ref. Github docs for providing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
+-->
