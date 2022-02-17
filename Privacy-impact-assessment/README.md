@@ -32,15 +32,15 @@ Remember that:
 You can find the complete Mercy Corps' [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
 
 For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where you can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw`:
-- a new **[Policy](PIA-templates/PIA-Policy.md)**
-- a new **[Process or Procedure](PIA-templates/PIA-Process-Procedure.md)**
-- a new **[Software or Technology System](PIA-templates/PIA-Software-Technology-System.md)**
+- a new **[Policy](PIA-templates/Privacy-impact-assessment\PIA-templates\PIA-New-Policy-open.odt)**
+- a new **[Process or Procedure](PIA-templates/PIA-New-Process-procedure.odt)**
+- a new **[Software or Technology System](PIA-templates/PIA-New-Software-Technology-system.odt)**
   - This is primarily for implementation of new global, country-wide or team-specific systems.
   - If you are selecting or using a new system as part of a larger project or program, use the project or program option instead.
-- a new **[Vendor or Partner](PIA-templates/PIA-Vendor-Partner.md)**
+- a new **[Vendor or Partner](PIA-templates/PIA-New-Vendor-Partner.odt)**
   - This is primarily meant for validation of a vendor, partner, or third party’s activities as part of a unique or one-time activity.
   - If you are selecting or using a new vendor, partner or third party as part of a larger project or program, use the project or program option instead.
-- a new **[Project or Program](PIA-templates/PIA-Project-Program.md)**
+- a new **[Project or Program](PIA-templates/PIA-New-Project-Program.odt)**
   - This can be for any phase or aspect of a project or program.
   - *This is the most comprehensive PIA option*, and includes language for also selecting new software or tech systems, and/or a new vendor or partner.
 
