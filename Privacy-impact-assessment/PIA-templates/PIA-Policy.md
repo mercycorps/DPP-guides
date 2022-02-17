@@ -24,13 +24,13 @@ The following questions are part of any PIA.
     * If yes, list those requirements here:
     * If you don’t know, then please check with your supervisor, program lead or whoever is responsible for understanding legal/donor requirements for your activity.
 
-## Sub Header
-text
+## Data Details
 
-### 5 Column Table Name
-| Header One     | Header Two     | Header One     | Header Two     | Header Two     |
+### Data Fundamentals
+| Data types     | Yes     | No     | Don't know     | Details     |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| Item One       | Item Two       | Item One       | Item Two       | Item Two       |
+| Will your policy address the use of de-identified or anonymized data? That is, the data will not directly identify an individual, but could be used to identify them by applying existing and readily accessible data or tools? *If yes, please also address this risk in the Risk Mitigation section.* |        |        |        |        |
+| Will your policy address the use of sensitive data? That is, the personal data is of a nature that could be used to target an individual? |        |        |        |        |
 
 ### 2 Column Table Name
 | Header One     | Header Two     |
