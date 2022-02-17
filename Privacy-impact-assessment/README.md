@@ -31,7 +31,7 @@ Remember that:
 ## Templates
 You can find the complete Mercy Corps' [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
 
-For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where you can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw`:
+For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where you can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button:
 - a new **[Policy](PIA-templates/PIA-New-Policy-open.odt)**
 - a new **[Process or Procedure](PIA-templates/PIA-New-Process-procedure.odt)**
 - a new **[Software or Technology System](PIA-templates/PIA-New-Software-Technology-system.odt)**
