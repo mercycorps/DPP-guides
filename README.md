@@ -7,9 +7,6 @@
 ## Policies
 Add as needed: ref to MC privacy policy (perhaps only for MC.org?). Example of [Github policy/notice for DHS is here](https://www.dhs.gov/github-privacy-policy-and-notice).
 
-## License
-Choose appropriate
-
 ## Citations and acknowledgments
 The content provided in this guide is all part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections as part of each section.
 
@@ -19,3 +16,15 @@ The content provided in this guide is all part of good data management practices
 - The International Federation of Red Cross and Red Crescent Societies (IFRC) [*Data Playbook*](https://preparecenter.org/toolkit/data-playbook-toolkit/) is an excellent resource of exercises, session plans, checklists, and other materials to help you organize conversations and activities with your team.
 - The Humanitarian Data Centre's [online tutorial for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) is a very specific, technical resource, but one that is indispensable for truly reducing the risk of data being used to identify individuals.
 - The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
+
+## License
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
