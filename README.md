@@ -1,11 +1,13 @@
 # Data Protection & Privacy Guide
-- Summary & Explainer
-- Link to 5 sections
-- Definitely link to relevant MC policies / [public site](https://www.mercycorps.org/research-resources/responsible-data-toolkit)?
-- These definitely need to link together in some fashion. Finally time for a Hub overhaul?
+Summary & Explainer
 
-## Policies
-Add as needed: ref to MC privacy policy (perhaps only for MC.org?). Example of [Github policy/notice for DHS is here](https://www.dhs.gov/github-privacy-policy-and-notice).
+- Sensitive data:
+- Privacy Impact Assessment:
+- Deidentification:
+- Encryption:
+- File sharing:
+
+Definitely link to relevant MC policies / [public site](https://www.mercycorps.org/research-resources/responsible-data-toolkit)?
 
 ## Citations and acknowledgments
 The content provided in this guide is all part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections as part of each section.
@@ -18,8 +20,6 @@ The content provided in this guide is all part of good data management practices
 - The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
 
 ## License
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
