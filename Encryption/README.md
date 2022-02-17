@@ -34,7 +34,7 @@ Encryption is important because it helps ensure the privacy and security of info
 4. Save the file to make sure the password takes effect.
 ![Uploading a file](images/Encrypt5.png)
 
-Now you can share the file and the password with those who require access. It is best practice to place the file on a Mercy Corps approved cloud service such as Gsuite or OneDrive. Remember to send the link to the file and the password to the file separately. For example, you could share the file using Google Drive ([see instructions here - *add link*](link.com)) and generate a notice that the file has been shared via Google, then share the password via an email to a colleague.
+Now you can share the file and the password with those who require access. It is best practice to place the file on a Mercy Corps approved cloud service such as Gsuite or OneDrive. Remember to send the link to the file and the password to the file separately. For example, you could share the file using Google Drive (see the File Sharing section) and generate a notice that the file has been shared via Google, then share the password via an email to a colleague.
 
 ## Further Assistance
 - The Electronic Cash Transfer Learning Action Network's [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a tip sheet for encryption (see Tip sheet #5).
