@@ -5,10 +5,12 @@
 - [ ] Delete this list!
 
 # Privacy Impact Assessments
-This section will help you understand a Privacy Impact Assessment (or "PIA") and contains the PIA template used at Mercy Corps.
+This section will help you understand a Privacy Impact Assessment (or "PIA") and contains the PIA guidance and template used at Mercy Corps. The PIA template contains a series of questions that create a framework for identifying the potential privacy risks related to data collection and management that are part of implementing a new program or technology.
+
+A PIA is required anytime an activity involves the collection or use of personal or sensitive data.
 
 ## Importance
-A Privacy Impact Assessment allows you to analyze how a particular project or new technology will affect the privacy of the individuals involved. A PIA form contains a series of questions that create a framework for identifying the potential privacy risks related to data collection and management that are part of implementing a new program or technology. A PIA also helps to document mitigation strategies that protect participant's privacy and strengthen public confidence in our work.
+A PIA allows you to analyze how a particular project or new technology will affect the privacy of the individuals involved. A PIA also helps to document mitigation strategies that protect participant's privacy and strengthen public confidence in our work. A PIA ensures that potential problems are identified early on, when addressing them will be simpler, less costly, and not risk harming program participants or staff.
 
 ## Principles
 The principles behind a PIA are similar to those for any secure use of personal data. As outlined by the  [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/) these principles are:
@@ -19,18 +21,28 @@ The principles behind a PIA are similar to those for any secure use of personal 
 - Ensure that the organization is promoting human rights in its humanitarian activities.
 
 ## Guidance
-In general, a PIA will require the following steps:
-1. Identify the need for a PIA.
-2. Describe how data are collected, from whom, and for what purpose.
-3. Identify any privacy risks.
-4. Document mitigation strategies or actions to eliminate or minimize these risks.
-5. Sign off and record the PIA outcomes.
+You can find Mercy Corps' [PIA Guidance here in the Digital Library](https://library.mercycorps.org/record/34302). The document contains answers to frequently asked questions related to PIA and links to the internal Mercy Corps archive of completed PIA for comparison.
 
 Remember that:
-- A PIA is a _process_ used to identify and minimize the privacy risks. Completing a PIA form is not the end of the process! Revisit the form at regular intervals (e.g. six months) to make sure there are no new changes to a project that introduce new risks. If there are, go through the process of documenting mitigation strategies again to minimize any new risk.
+- A PIA is a _process_ used to identify and minimize the privacy risks. Completing a PIA form is not the end of the process! Revisit the form again after your project starts to make sure there are no new changes to a project that introduce new risks. If there are, go through the process of documenting mitigation strategies again to minimize any new risk.
 - Conducting a PIA involves working with people at Mercy Corps, but also with partner organizations and others to identify and reduce privacy risks. For example, if you are using a new technology, you may need to research whether the company you are working with has a privacy policy and what technological safeguards they use to ensure data are protected. You may also need to educate yourself about relevant privacy regulations in your country of operation.
-- A PIA ensures that potential problems are identified early on, when addressing them will be simpler, less costly, and not risk harming program participants or staff. We recommend creating an action list to ensure that each action required to ensure data protection and privacy has an owner and will get completed.
 - It can be helpful to compare PIAs of similar programs. You can conduct this research on your own or reach out to the Data Protection and Privacy team for assistance.
+
+## Templates
+You can find the complete Mercy Corps' [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
+
+For ease of use, there are also 5 templates that for specific use-cases:
+- a new **[Policy](PIA-templates/PIA-Policy.md)**
+- a new **[Process or Procedure](PIA-templates/PIA-Process-Procedure.md)**
+- a new **[Software or Technology System](PIA-templates/PIA-Software-Technology-System.md)**
+  - This is primarily for implementation of new global, country-wide or team-specific systems.
+  - If you are selecting or using a new system as part of a larger project or program, use the project or program option instead.
+- a new **[Vendor or Partner](PIA-templates/PIA-Vendor-Partner.md)**
+  - This is primarily meant for validation of a vendor, partner, or third party’s activities as part of a unique or one-time activity.
+  - If you are selecting or using a new vendor, partner or third party as part of a larger project or program, use the project or program option instead.
+- a new **[Project or Program](PIA-templates/PIA-Project-Program.md)**
+  - This can be for any phase or aspect of a project or program.
+  - *This is the most comprehensive PIA option*, and includes language for also selecting new software or tech systems, and/or a new vendor or partner.
 
 ## Further Assistance
 - The Electronic Cash Transfer Learning Action Network's [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a tip sheet for PIAs (see Tip sheet #1).

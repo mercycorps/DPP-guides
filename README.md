@@ -34,4 +34,8 @@ This work is licensed under a
 <!--
 ## How to Contribute
 It would also be good to add a contributors section. [Ref. Github docs for providing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
+
+## Policies
+Would also be good to point to MC privacy policy, mention PIA, point to Github privacy policy.
+
 -->
