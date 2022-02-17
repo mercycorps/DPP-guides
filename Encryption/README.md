@@ -23,15 +23,19 @@ Encryption is important because it helps ensure the privacy and security of info
 ## Instructions
 
 1. Open the Word, Excel, or PowerPoint file you want to encrypt and select the `File` menu.
+
 ![Uploading a file](images/Encrypt1.png)
 
 2. Navigate to `Info` > `Protect Document` > `Encrypt with Password`.
+
 ![Uploading a file](images/Encrypt3.png)
 
 3. Type a password, click `OK` then type it again to confirm it.
+
 ![Uploading a file](images/Encrypt4.png)
 
 4. Save the file to make sure the password takes effect.
+
 ![Uploading a file](images/Encrypt5.png)
 
 Now you can share the file and the password with those who require access. It is best practice to place the file on a Mercy Corps approved cloud service such as Gsuite or OneDrive. Remember to send the link to the file and the password to the file separately. For example, you could share the file using Google Drive (see the File Sharing section) and generate a notice that the file has been shared via Google, then share the password via an email to a colleague.
