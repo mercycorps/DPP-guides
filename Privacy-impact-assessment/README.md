@@ -31,7 +31,7 @@ Remember that:
 ## Templates
 You can find the complete Mercy Corps' [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
 
-For ease of use, there are also 5 templates that for specific use-cases:
+For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where you can download the Microsoft Word `.docx` file by clicking `View raw`:
 - a new **[Policy](PIA-templates/PIA-Policy.md)**
 - a new **[Process or Procedure](PIA-templates/PIA-Process-Procedure.md)**
 - a new **[Software or Technology System](PIA-templates/PIA-Software-Technology-System.md)**
