@@ -15,7 +15,7 @@ This section contains two documents:
   - Anyone can access [a version of the Guidance here](Guidance-processing-sensitive-data.md).
 - "Sensitive Information Assessment (SIA) Template" can be used in relation to a Privacy Impact Assessment and is an ideal way to document all additional safeguards being employed for sensitive data. This document also sets out the different "legal basis" that justify the collection and use of sensitive data.
   - Mercy Corps staff can access the SIA template [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38611).
-  - Anyone can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button [on this page](SIA-template\SensitiveInformationAssessmentTemplate.odt).
+  - Anyone can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button [on this page](SIA-template/SensitiveInformationAssessmentTemplate.odt).
 
 ## Further Assistance
 Planning for the collection or use of sensitive data should be part of a larger strategy for the data life cycle of a program or activity. There are several resources that can help you.
