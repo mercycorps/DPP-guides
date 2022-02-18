@@ -15,7 +15,7 @@ The principles behind a PIA are similar to those for any secure use of personal 
 - Ensure that the organization is promoting human rights in its humanitarian activities.
 
 ## Guidance
-You can find Mercy Corps' [PIA Guidance here in the Digital Library](https://library.mercycorps.org/record/34302). The document contains answers to frequently asked questions related to PIA and links to the internal Mercy Corps archive of completed PIA for comparison.
+Mercy Corps' staff can find the [PIA Guidance here in the Digital Library](https://library.mercycorps.org/record/34302). The document contains answers to frequently asked questions related to PIA and links to the internal Mercy Corps archive of completed PIA for comparison.
 
 Remember that:
 - A PIA is a _process_ used to identify and minimize the privacy risks. Completing a PIA form is not the end of the process! Revisit the form again after your project starts to make sure there are no new changes to a project that introduce new risks. If there are, go through the process of documenting mitigation strategies again to minimize any new risk.
@@ -23,9 +23,9 @@ Remember that:
 - It can be helpful to compare PIAs of similar programs. You can conduct this research on your own or reach out to the Data Protection and Privacy team for assistance.
 
 ## Templates
-You can find the complete Mercy Corps' [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
+Mercy Corps' staff can find the long-form [PIA Template here in the Digital Library](https://library.mercycorps.org/record/34316).
 
-For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where you can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button:
+For ease of use, there are also 5 templates that for specific use-cases. Clicking the link below will take you to a screen where anyone can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button:
 - a new **[Policy](PIA-templates/PIA-New-Policy-open.odt)**
 - a new **[Process or Procedure](PIA-templates/PIA-New-Process-procedure.odt)**
 - a new **[Software or Technology System](PIA-templates/PIA-New-Software-Technology-system.odt)**
