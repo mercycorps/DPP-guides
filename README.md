@@ -1,5 +1,5 @@
 # Data Protection & Privacy Guides
-The following content is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The information can be taken all together as a comprehensive guidebook, or each section can be used a standalone guide to a particular topic. The following topics are presented:
+The following content is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The information can be taken all together as a comprehensive guidebook, or each section can be used as a standalone guide to a particular topic. The following topics are presented:
 
 - **Sensitive data** - defines what sensitive data is and provides guidance for its collection and use.
 - **Privacy Impact Assessment (PIA)** - provides details regarding PIA and the assessment templates required by Mercy Corps' Responsible Data policy
