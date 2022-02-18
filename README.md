@@ -1,16 +1,16 @@
 # Data Protection & Privacy Guide
-This guide is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings together several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The guide is composed of the following sections:
+This guide is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The guide is composed of the following sections:
 
 - **Sensitive data** - defines what sensitive data is and provides guidance for its collection and use.
 - **Privacy Impact Assessment (PIA)** - provides details regarding PIA and the assessment templates required by Mercy Corps' Responsible Data policy
 - **File sharing** - presents an overview of best practices using Gsuite at Mercy Corps and a brief tutorial.
 - **Deidentification** - contains an overview of deidentification - including anonymization and pseudonymization - and an example or one way to deidentify a dataset using spreadsheet software.
-- **Encryption** - provides an brief overview of encryption and provides an example of one way to encrypt a file using software available within Mercy Corps.
+- **Encryption** - provides a brief overview of encryption and provides an example of one way to encrypt a file using software available within Mercy Corps.
 
 While the guide is primarily intended for Mercy Corps staff, and is designed to accompany the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit), we are releasing it under open license so that it may benefit partners, peer-organizations, and others in need of example policies, templates, and instructions for implementing responsible data practices.
 
 ## Citations and acknowledgments
-The content provided in this guide is all part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections that are most pertinent to a specifc topic.
+The content provided in this guide is all part of good data management practices and the larger "data life cycle," or the overall activities for individual data collection as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections that are most pertinent to a specific topic.
 
 - The Cash Learning Partnership's *Data Responsibility Toolkit* is designed for cash and voucher practitioners specifically, but is a "gold standard" in guidance for responsible data. The Toolkit is available in [English](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf), [Arabic](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), [French](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), and [Spanish](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
 - The [Electronic Cash Transfer Learning Action Network's *Data Starter Kit for Humanitarian Field Staff*](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a series of data tip sheets for understanding various aspects of good data management and protection practices.

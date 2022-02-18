@@ -1,5 +1,5 @@
 # File Sharing: GDrive
-Here is a sample use-case for sharing a file using best practices in Google Drive. Imagine that Mercy Corps is working with a consultant (PNW Rocks), to create materials for a major new initiative at Mercy Corps, that is code-named Big Cheese. The Big Cheese project will not be announced publicly until July 2021 so it's important to limit who has access t the file. To get started, we'll want to collaborate on next steps for the project in a file called "Big Cheese Plans".
+Here is a sample use-case for sharing a file using best practices in Google Drive. Imagine that Mercy Corps is working with a consultant (PNW Rocks), to create materials for a major new initiative at Mercy Corps, that is code-named Big Cheese. The Big Cheese project will not be announced publicly until July 2021 so it's important to limit who has access to the file. To get started, we'll want to collaborate on next steps for the project in a file called "Big Cheese Plans."
 
 ## Step 1 - Upload
 Upload the file to My Drive.
@@ -12,7 +12,7 @@ To share the file, right-click the file and then click `Share`.
   - The `Anyone with the link` option should only be used for files that hold no confidential information, and are open to the public. If the `Anyone with the link` setting is used on a file with confidential private, personal or financial data, it could easily and accidentally be shared and put Mercy Corps at immediate legal risk, and make it easy for bad actors to use the information for criminal purposes.
 
 ## Step 3 - Select level of access
-Enter the email address address for the person you want to share with, then choose the level of access. Google defaults to `Editor` access, which is only appropriate for team members who need full access to the dcocument. When you are engaging stakeholders for feedback, choose `Viewer` or `Commenter`. Best practice is to notify the person, and add a message, explaining why you’ve shared the file. To notify, leave that `Notify people` box checked. When done with changes, click `Send`.
+Enter the email address address for the person you want to share with, then choose the level of access. Google defaults to `Editor` access, which is only appropriate for team members who need full access to the document. When you are engaging stakeholders for feedback, choose `Viewer` or `Commenter`. Best practice is to notify the person, and add a message, explaining why you’ve shared the file. To notify, leave that `Notify people` box checked. When done with changes, click `Send`.
 ![Uploading a file](images/Filesharing_Gdrive_Step3a.png)
 
 Another option is to send a separate email with a link to the file. To notify separately via email, uncheck the `Notify people` box. After clicking `Done`,  right click the file and choose `Get Link`. In the new popup window, click the `Copy link` button, and then paste it into your email.
@@ -20,7 +20,7 @@ Another option is to send a separate email with a link to the file. To notify se
 ![Uploading a file](images/Filesharing_Gdrive_Step3b.png)
 
 - To learn more about access levels, visit [Share and collaborate in My Drive](https://support.google.com/a/users/answer/9310248?hl=en).
-- If you restricted a file, and someone with access shares the link with another person, that person will not automatically have access to that content in Google Drive. Instead, they’ll see a web page with the opportunity to request access. The request for access will go to the file owner. Access requests should be reviewed, and those receiving access requests should not simply grant permission to any and all requests, without reviewing the above notes and considerations.
+- If you restrict a file, and someone with access shares the link with another person, that person will not automatically have access to that content in Google Drive. Instead, they’ll see a web page with the opportunity to request access. The request for access will go to the file owner. Access requests should be reviewed, and those receiving access requests should not simply grant permission to any and all requests, without reviewing the above notes and considerations.
 
 ## Step 4 - Temporary Access
 Once permission has been granted, the sharing time period can be shortened. To limit access, right click the file again, and click `Share`. Find the email address you just shared with and right click the access level. You will see new options appear; select `Give temporary access`.

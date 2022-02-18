@@ -24,7 +24,7 @@ Start by naming your new columns. We'll use "key code" in each of them: each col
 ![Create Key Code](images/Step3-create-key-code.png)
 
 ## Step 4 - Duplicate the Key Code and Remove Values
-No we will copy the key code and paste it into the adjacent column. You can do this using basic keyboard commands such as `ctrl + C` or highlight the cells you want to copy, right click on them, and select `Copy`. In the adjacent column highlight the cells you want to paste the new key code into, right-click, and choose `Paste`. I've choosen to specifically paste only values. If you have used a formula to create a new code, then it will be important to retain on the values for use as a key code!
+Now we will copy the key code and paste it into the adjacent column. You can do this using basic keyboard commands such as `ctrl + C` or highlight the cells you want to copy, right click on them, and select `Copy`. In the adjacent column highlight the cells you want to paste the new key code into, right-click, and choose `Paste`. I've chosen to specifically paste only values. If you have used a formula to create a new code, then it will be important to retain *only the values* for use as a key code!
 
 ![Duplicate Key Code](images/Step4-duplicate-key-code.png)
 
