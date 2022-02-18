@@ -1,10 +1,3 @@
-*Tasks to finish this section:*
-- [X] Edit text.
-- [ ] Clear on text - Ensure IT has seen this and confirms best practices.
-- [ ] Link to other assets that are part of the section (e.g. related sections, video, or translations)
-- [ ] Link to guidance video.
-- [ ] Delete this list!
-
 # Encrypting a File
 This section addresses a basic example of encrypting a file using a Microsoft feature available on Mercy Corps computers. There are a range of factors to consider when encrypting a file, but here we focus on using a password and encryption of a single file. See the links below for resources that explore encryption in more depth. For this guide, however, it useful to understand the subtle difference between "password protection" and "encryption".
 

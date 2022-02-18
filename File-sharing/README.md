@@ -1,10 +1,3 @@
-*Tasks to finish this section:*
-- [X] Edit text - this draft still needs to be shortened up: make the principles more direct and tech agnostic. Anything GDrive specific should go in instructions.
-- [ ] Clear on text
-- [ ] Link to other assets that are part of the section (e.g. instructions, video, or translations)
-- [ ] Link to guidance video - **there are millions of these online already: should we just pick one on Vimeo and YouTube (diff platforms are banned in some countries) instead of paying for something new?** need to validate against what we can do in our Google account.
-- [ ] Delete this list!
-
 # File Sharing Best Practices: Gsuite
 This section will cover file sharing best practices for Mercy Corps team members using G Suite apps, particularly Gmail and Google My Drive. To simplify this guide, we will be discussing sharing a single *file*, such as a spreadsheet. However, the same options are available when sharing a My Drive *folder*.
 
