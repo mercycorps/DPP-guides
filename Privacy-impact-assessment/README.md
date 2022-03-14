@@ -1,25 +1,28 @@
 # Privacy Impact Assessments
-This section will help you understand a Privacy Impact Assessment (or "PIA") and contains the PIA guidance and template used at Mercy Corps. The PIA template contains a series of questions that create a framework for identifying the potential privacy risks related to data collection and management that are part of implementing a new program or technology.
+This guide will help you understand a Privacy Impact Assessment (PIA) and contains the PIA guidance and template used at Mercy Corps. The PIA template contains a series of questions that create a framework for identifying the potential privacy risks related to data collection and management that are part of implementing a new program or technology. A PIA is also important when the context of a program changes significantly and new risks or scenarios need to be considered.
 
-A PIA is required anytime an activity involves the collection or use of personal or sensitive data.
+A PIA is required anytime a new program, project, or technology involves the collection or use of personal or sensitive data.
 
 ## Importance
-A PIA allows you to analyze how a particular project or new technology will affect the privacy of the individuals involved. A PIA also helps to document mitigation strategies that protect participant's privacy and strengthen public confidence in our work. A PIA ensures that potential problems are identified early on, when addressing them will be simpler, less costly, and not risk harming program participants or staff.
+A PIA allows you to analyze how a particular project or new technology will affect the privacy of the individuals involved. A PIA also helps to document mitigation strategies that protect participant's privacy and strengthen public confidence in our work. A PIA ensures that potential problems are identified early on, when addressing them will be simpler, less costly, and will not risk harming program participants or staff.
 
 ## Principles
-The principles behind a PIA are similar to those for any secure use of personal data. As outlined by the  [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/) these principles are:
+The principles behind a PIA are similar to those for any secure use of personal data. Below are some key principles that have been adapted from the [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/):
 
 - Identify the privacy risks to individuals.
 - Identify the privacy and data protection compliance liabilities for your organization.
-- Protect the organization’s reputation and instill public confidence in the program.
-- Ensure that the organization is promoting human rights in its humanitarian activities.
+- Demonstrate accountability and compliance with the policies that protect program participants, partners, and staff.
+- Ensure that the organization is promoting the right to privacy in its humanitarian activities and acting as an ethical data steward.
 
 ## Guidance
 Mercy Corps' staff can find the [PIA Guidance here in the Digital Library](https://library.mercycorps.org/record/34302). The document contains answers to frequently asked questions related to PIA and links to the internal Mercy Corps archive of completed PIA for comparison.
 
 Remember that:
 - A PIA is a _process_ used to identify and minimize the privacy risks. Completing a PIA form is not the end of the process! Revisit the form again after your project starts to make sure there are no new changes to a project that introduce new risks. If there are, go through the process of documenting mitigation strategies again to minimize any new risk.
-- Conducting a PIA involves working with people at Mercy Corps, but also with partner organizations and others to identify and reduce privacy risks. For example, if you are using a new technology, you may need to research whether the company you are working with has a privacy policy and what technological safeguards they use to ensure data are protected. You may also need to educate yourself about relevant privacy regulations in your country of operation.
+- Conducting a PIA involves working with people at Mercy Corps, and sometimes with partner organizations and others to identify and reduce privacy risks. For example, if you are using a new technology, you may need to research whether the company you are working with has a privacy policy and what technological safeguards they use to ensure data is protected. You may also need to educate yourself about relevant privacy regulations in your country of operation. Three websites that you can use to monitor national-level data and privacy laws are:
+  - [Data Protection Laws of the World](https://www.dlapiperdataprotection.com);
+  - The [U.N. Conference on Trade and Development database of Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide); and
+  - [One Trust Data Guidance database of Global Privacy Laws](https://www.dataguidance.com/advisories/global-privacy-laws).
 - It can be helpful to compare PIAs of similar programs. You can conduct this research on your own or reach out to the Data Protection and Privacy team for assistance.
 
 ## Templates
