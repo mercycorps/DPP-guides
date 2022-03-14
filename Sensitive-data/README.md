@@ -1,10 +1,12 @@
 # Understanding Sensitive Data
-Understanding the different classifications of data can be difficult, but is an important part of working with humanitarian data. For example, what is the difference between personal data and sensitive data? Particular types of data may require special care in accordance with regional or national laws or organizational policies and can present different types of risk to both program participants and organizations. Sensitive data is a sub-category of personal data and this section provides detailed guidance for processing and understanding it.
+Understanding the different classifications of data can be difficult, but they are an important part of working with humanitarian data. For example, what is the difference between personal data and sensitive data? Particular types of data may require special care in accordance with regional or national laws or organizational policies, and can present different types of risk to both program participants and organizations. Sensitive data is a sub-category of personal data and this section provides detailed guidance for processing and understanding it.
 
 ## Importance
-A majority of Mercy Corps programs and other activities collect some kind of personal information about individuals and, in many cases, collect information about an individual's cultural profile, sexual orientation, health, or biometrics and genetics. These would are considered sensitive data and they are essential for us to carry out our work with program participants and their communities. However, if sensitive data are disclosed, accessed or shared improperly, they could result in:
+A majority of Mercy Corps programs and other activities collect some kind of personal information about individuals. In many cases programs also collect information about an individual's cultural profile, sexual orientation, health, or biometrics and genetics. These types of information are considered sensitive data and if they are disclosed, accessed or shared improperly, could result in:
 - harm to a person, such as sanctions, discrimination and security threats;
 - a negative impact on Mercy Corps' ability to carry out activities and reduced trust or public perception.
+It is vital to take the necessary steps to protect these data.
+
 
 It is vital to take the necessary steps to protect these data.
 
@@ -13,7 +15,7 @@ This section contains two documents:
 - "Guidance for processing of sensitive data" introduces you to sensitive data, key terms, and things to consider when planning its collection, storage, analysis, and sharing.
   - Mercy Corps staff can access the Guidance [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38516).
   - Anyone can access [a version of the Guidance here](Guidance-processing-sensitive-data.md).
-- "Sensitive Information Assessment (SIA) Template" can be used in relation to a Privacy Impact Assessment and is an ideal way to document all additional safeguards being employed for sensitive data. This document also sets out the different "legal basis" that justify the collection and use of sensitive data.
+- "Sensitive Information Assessment (SIA) Template" can be used with a Privacy Impact Assessment to document all additional safeguards being employed for sensitive data. This document also sets out the different legal bases that can be used to justify the collection and use of sensitive data.
   - Mercy Corps staff can access the SIA template [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38611).
   - Anyone can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button [on this page](SIA-template/SensitiveInformationAssessmentTemplate.odt).
 
