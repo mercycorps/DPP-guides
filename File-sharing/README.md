@@ -1,7 +1,7 @@
 # File Sharing Best Practices: Gsuite
-This section will cover file sharing best practices for Mercy Corps team members using G Suite apps, particularly Gmail and Google My Drive. To simplify this guide, we will be discussing sharing a single *file*, such as a spreadsheet. However, the same options are available when sharing a My Drive *folder*.
+This section will cover file sharing best practices for Mercy Corps team members using G Suite apps, particularly Google My Drive. To simplify this guide, we will be discussing sharing a single *file*, such as a spreadsheet. However, the same options are available when sharing a My Drive *folder*.
 
-Note: Mercy Corps is transitioning to Microsoft 365 for file sharing. A similar document or resource will be created to describe best practices particular to that platform.
+**Note: Mercy Corps is transitioning to Microsoft 365 for file sharing.** Once best practices for that platform have been established, a similar document or resource will be created.
 
 ## Importance
 There are several reasons why it is better to share a file by hosting it in Google Drive and sending a link rather than as an attachment in an email.
@@ -12,20 +12,20 @@ There are several reasons why it is better to share a file by hosting it in Goog
 
 ## Principles
 Whenever you share documents, you should consider the following:
-- **Carefully consider who will access the file.**
+- **Carefully consider who will create the file or folder, who will own/administer it, and who will access it.** If short-term contractors create and administer files there is a risk of the files or the access leaving with the contractors when they leave!
   - Only give access to those who need the file.
-  - Confidential, private or personally identifiable information (PII) content should *always* have restricted access. If you are unable to determine if or how the content should be restricted, please seek assistance from Legal or the Data Protection and Privacy team.
+  - Confidential, private or personally identifiable information (PII) content must *always* have restricted access. If you are unable to determine if or how the content should be restricted, please seek assistance from Legal or the Data Protection and Privacy team.
 - **Use the appropriate level of permissions.**
-  - Consider an example where a new project charter needs to be created. Most likely, only the team responsible for charter creation should have full access. When it’s time to get feedback from others, grant permissions that only allow viewing or commenting.
-  - Use caution in granting access requests to team members who may accidentally be using their personal email accounts. Instead of granting access to a personal email account, ask the team member to log in using their Mercy Corps account.
+  - Consider an example where a new project charter needs to be created. Most likely, only the team responsible for charter creation should have full access. When it’s time to get feedback from others, grant additional permissions that only allow viewing or commenting.
+  - Use extreme caution in granting access requests to team members who may accidentally be using their personal email accounts. Instead of granting access to a personal email account, grant access to their Mercy Corps account, and ask the team member to log in with those credentials.
 - **Permissions change over time**
   - If you are only working with someone for a short period of time or with people outside Mercy Corps, consider giving temporary permissions. If you forget to remove the access later, an expiration date will ensure their access is suspended at the right time.
   - Periodically audit the list of who has access to your files, folders or shared drives to ensure you remove access for team members who have changed roles, or are no longer with Mercy Corps.
 - **Risky content requires extra steps**
   - Personally identifiable information (PII), demographically identifiable information (DII), or other types of personal data are protected under multiple data protection laws. Before you share personal data, verify the legal requirements for sharing that information with others. Inappropriate personal data sharing can put program participants, donors, partners and Mercy Corps team members at risk. If you have questions about personal data or data protection laws, please email the Data Protection and Privacy team at dataprotection@mercycorps.org.
   - If the information is considered confidential or proprietary for business purposes, share it only with required parties and consider granting temporary access.
-  - If the person receiving the file works in an insecure location, or if the contents include personal data, consider encrypting the file or protecting it with password protection. See the Encryption and Deidentification sections for examples of how to do this.
-- **Don't move files without the owner's permission.**
+  - If the person receiving the file works in an insecure location, or if the contents include personal data, consider encrypting the file or protecting it with password protection. See the Encryption and de-identification sections for examples of how to do this.
+- **Never move files without the owner's permission.**
   - Moving files may alter who has access and make it impossible for others to find the file! Always check with the document owner before moving a shared file to a new location.
 
 ## Instructions
