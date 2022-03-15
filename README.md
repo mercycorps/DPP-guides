@@ -35,6 +35,6 @@ This work is licensed under a
 <!--
 
 ## Policies
-Point to MC privacy policy, mention PIA, & point to Github privacy policy.
+Point to MC privacy policy, mention PIA, & Github privacy policy?
 
 -->
