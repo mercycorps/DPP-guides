@@ -20,7 +20,7 @@ The content provided in this guide is all part of good data management practices
 - The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
 
 ## Contact & Contributions
-This repo is maintained by the Data Protection & Privacy team at [Mercy Corps](https://www.mercycorps.org) and is part of work to expand the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). You can submit updates or additions to this material via a Github pull request ([read about pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) or by contacting us at dataprotection@mercycorp.org. 
+This repo is maintained by the Data Protection & Privacy team at [Mercy Corps](https://www.mercycorps.org) and is part of work to expand the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). You can submit updates or additions to this material via a Github pull request ([read about pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) or by contacting us at dataprotection@mercycorp.org.
 
 ## License
 This work is licensed under a
@@ -33,10 +33,8 @@ This work is licensed under a
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 <!--
-## How to Contribute
-It would also be good to add a contributors section. [Ref. Github docs for providing guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors).
 
 ## Policies
-Would also be good to point to MC privacy policy, mention PIA, point to Github privacy policy.
+Point to MC privacy policy, mention PIA, & point to Github privacy policy.
 
 -->
