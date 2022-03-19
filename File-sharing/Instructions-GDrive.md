@@ -47,8 +47,7 @@ If you have concerns about others taking inappropriate actions with the content,
   - If you need to see the file in your My Drive or in a secondary location, the best practice is to use the [Add shortcut to Drive](https://support.google.com/drive/answer/9700156?hl=en&co=GENIE.Platform%3DDesktop) option.
   - If a file copy is made, or the file is moved, be aware it will not have the same permissions as the original file unless you explicitly set those permissions.
 
-## Further Assistance
-This document does not cover file sharing in Google’s shared drives, nor external file sharing platforms. To learn more about these, visit Google’s [Best practices for shared drives](https://support.google.com/a/users/answer/9310352?hl=en) or [managing shared drives page](https://support.google.com/a/topic/7337266?hl=en&ref_topic=2490075). Each of these pages is available in a variety of languages: scroll to the bottom of the page to select your language.
+This guide does not cover file sharing in Google’s shared drives, nor external file sharing platforms. To learn more about these, visit Google’s [Best practices for shared drives](https://support.google.com/a/users/answer/9310352?hl=en) or [managing shared drives page](https://support.google.com/a/topic/7337266?hl=en&ref_topic=2490075). Each of these pages is available in a variety of languages: scroll to the bottom of the page to select your language.
 
 The best way to control access to files using Drive is to create a Google group and assign permissions to those in the group. Google groups are not just for sending emails; groups are powerful and convenient tools for managing folder and file permissions. [Find out more about Google Groups here](https://support.google.com/groups/?hl=en#topic=9216).
 

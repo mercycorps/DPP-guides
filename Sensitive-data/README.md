@@ -14,10 +14,10 @@ It is vital to take the necessary steps to protect these data.
 This section contains two documents:
 - "Guidance for processing of sensitive data" introduces you to sensitive data, key terms, and things to consider when planning its collection, storage, analysis, and sharing.
   - Mercy Corps staff can access the Guidance [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38516).
-  - Anyone can access [a version of the Guidance here](Guidance-processing-sensitive-data.md).
+  - Anyone can access [a version of the guidance here in PDF](http://dldocs.mercycorps.org/SensitiveDataProcessingGuidance.pdf).
 - "Sensitive Information Assessment (SIA) Template" can be used with a Privacy Impact Assessment to document all additional safeguards being employed for sensitive data. This document also sets out the different legal bases that can be used to justify the collection and use of sensitive data.
   - Mercy Corps staff can access the SIA template [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38611).
-  - Anyone can download the document in the `.odt` format (compatible with Microsoft Word and open source applications like OpenOffice and LibreOffice) by clicking `View raw` or the `Download` button [on this page](SIA-template/SensitiveInformationAssessmentTemplate.odt).
+  - Anyone can download the template as a [Microsoft Word file here](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate.docx).
 
 ## Further Assistance
 Planning for the collection or use of sensitive data should be part of a larger strategy for the data life cycle of a program or activity. There are several resources that can help you.
