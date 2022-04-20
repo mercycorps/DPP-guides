@@ -1,4 +1,5 @@
 **Localization**
+- Please find the English translation of this content here.
 - Please find the Ukrainian translation of this content here.
 - Encuentre la traducción al español de este contenido aquí.
 - Please find the Arabic translation of this content here.  
