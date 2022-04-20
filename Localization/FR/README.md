@@ -7,7 +7,7 @@
 # Guides de protection des données et de confidentialité
 Le contenu ci-après est conçu pour aider le personnel de Mercy Corps à mieux comprendre et à mettre en œuvre des pratiques responsables en matière de données. Il rassemble plusieurs politiques et documents d'orientation existants de Mercy Corps, ainsi que des tutoriels simples et des liens vers d'autres ressources. Les informations peuvent être prises dans leur ensemble comme un guide complet, ou chaque section peut être utilisée comme un guide autonome sur un sujet particulier.
 
-- **[Comprendre les données sensibles](/Sensitive-data)** - Définit ce que sont les données sensibles et fournit des conseils pour leur collecte et leur utilisation.
+- **[Comprendre les données sensibles](/Localization/FR/Sensitive-data)** - Définit ce que sont les données sensibles et fournit des conseils pour leur collecte et leur utilisation.
 - **[Évaluation des incidences sur la confidentialité (PIA)](Privacy-impact-assessment)** - Fournit des détails concernant les PIA et les modèles d'évaluation requis par la politique de Mercy Corps en matière de données responsables.
 - **[Meilleures pratiques en matière de partage de fichiers](/File-sharing)** - Donne un aperçu des meilleures pratiques d'utilisation de G Suite à Mercy Corps et un bref tutoriel..
 - **[Deidentification](/Deidentification)** - Fournit un bref aperçu du cryptage et donne un exemple d'une façon de crypter un fichier en utilisant un logiciel disponible au sein de Mercy Corps.
