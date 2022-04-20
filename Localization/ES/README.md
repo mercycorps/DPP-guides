@@ -1,7 +1,6 @@
 **Localization**
 - Please find the Ukrainian translation of this content here.
 - Veuillez trouver la traduction française de ce contenu ici.
-- Encuentre la traducción al español de este contenido aquí.
 - Please find the Arabic translation of this content here.  
 - Please find the Russian translation of this content here.
 
@@ -27,7 +26,7 @@ The content provided in this guide is all part of good data management practices
 - The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
 
 ## Contact & Contributions
-This repository is maintained by the Data Protection & Privacy team at [Mercy Corps](https://www.mercycorps.org) and is part of work to expand the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). You can submit updates or additions to this material via a Github pull request ([read about pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) or by contacting us at dataprotection@mercycorp.org.
+This repo is maintained by the Data Protection & Privacy team at [Mercy Corps](https://www.mercycorps.org) and is part of work to expand the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). You can submit updates or additions to this material via a Github pull request ([read about pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) or by contacting us at dataprotection@mercycorp.org.
 
 ## License
 This work is licensed under a
