@@ -1,40 +1,40 @@
-# Encrypting a File
-This section addresses a basic example of encrypting a file using a Microsoft feature available on Mercy Corps computers. There are a range of factors to consider when encrypting a file, but here we focus on using a password and encryption of a single file. See the links below for resources that explore encryption in more depth. For this guide, however, it is useful to understand the subtle difference between "password protection" and "encryption".
+# Cryptage d'un fichier
+Ce guide aborde un exemple de base de cryptage d'un fichier à l'aide d'une fonction Microsoft dispo-nible sur les ordinateurs de Mercy Corps. Il existe une série de facteurs à prendre en compte lors du cryptage d'un fichier, mais nous nous concentrons ici sur l'utilisation d'un mot de passe et le cryptage d'un seul fichier. Voir les liens ci-dessous pour des ressources qui explorent le cryptage de manière plus approfondie. Pour ce guide, il est toutefois utile de comprendre la différence subtile entre « protection par mot de passe » et « cryptage ».
 
-Think of password protection as a box with a lock on it. When you "password protect" your document, you are putting it in an electronic box and locking it with a password: only those with the password can open the box. However, if the password you choose is not very strong, or if it is shared with the wrong person, someone can easily get into the box and view your document! By contrast, encryption uses complex algorithms to encode information, which requires having a key to decrypt that information. Think of this as taking your document and running it through a paper shredder that assigns a special key to put the document back together again.
-When you combine password protection and encryption, you are effectively doubling your protection. If someone successfully breaks the password to the electronic box, they will only be able to see the bits of shredded paper without also having the proper key. All Mercy Corps' laptops are encrypted using Microsoft BitLocker. This prevents a Mercy Corps laptop’s hard disk from being removed and accessed on another computer.
+Considérez la protection par mot de passe comme une boîte munie d'un verrou. Lorsque vous « protégez » votre document par un mot de passe, vous le placez dans une boîte électronique que vous verrouillez à l'aide d'un mot de passe : seules les personnes disposant du mot de passe peu-vent ouvrir la boîte. Cependant, si le mot de passe que vous choisissez n'est pas très fort, ou s'il est partagé avec la mauvaise personne, quelqu'un peut facilement entrer dans la boîte et voir votre document ! En revanche, le cryptage utilise des algorithmes complexes pour coder des informa-tions, ce qui nécessite de disposer d'une clé pour décrypter ces informations. Imaginez que vous prenez votre document et le passez dans un des-tructeur de papier qui attribue une clé spéciale pour reconstituer le document.
+Lorsque vous combinez protection par mot de passe et cryptage, vous doublez effectivement votre protection. Si quelqu'un réussit à forcer le mot de passe du boîtier électronique, il ne pourra voir que les morceaux de papier déchiqueté sans avoir également la clé appropriée. Tous les ordina-teurs portables de Mercy Corps sont cryptés à l'aide de Microsoft BitLocker. Cela permet d'éviter que le disque dur d'un ordinateur portable Mercy Corps soit retiré et accessible sur un autre ordinateur.
 
 ## Importance
-Encryption is critical because it helps ensure the privacy and security of information. Without encryption, data can be intercepted and read by anyone who has access to it. When considering whether or not to encrypt data, ask yourself, "What is the risk to Mercy Corps' program participants, staff, and partners if these data were lost or stolen?" A good rule of thumb is to encrypt anything containing personally identifiable or sensitive information.
+Le cryptage est essentiel car il permet de garantir la confidentialité et la sécurité des informations. Sans cryptage, les données peuvent être inter-ceptées et lues par toute personne qui y a accès. Lorsque vous envisagez de crypter ou non des données, posez-vous la question suivante : « Quel est le risque pour les participants aux programmes de Mercy Corps, son personnel et ses partenaires si ces données étaient perdues ou volées ? » Une bonne règle de base est de chiffrer tout ce qui contient des informations personnelles identifiables ou sensibles.
 
-## Principles
-- Use approved Mercy Corps systems for encrypted data transfer and storage (e.g. Microsoft SharePoint or Google Drive). When in doubt, ask your local IT team for advice.
-- Encrypt sensitive data at all stages of its collection, use, transmission, and storage.
-- Use strong passwords and do not reuse passwords. Lists of passwords circulate online and make it easier for someone with one of your passwords to access more than one of your accounts or files! You may want to use a password manager, such as Lastpass. However, password managers may be vulnerable to cyber attack by fake apps, so it is critical that password managers are used as part of a broader approach to securing data.
-- In a team environment, encryption is only as good as the weakest link. If even one person fails to use encryption, your program data is at risk. It is extremely important to communicate this to your team: encryption is not just an issue of technology, but of behavior change as well.
-- Understand laws that govern encryption in your country. Local laws in a number of countries (such as Sudan, Yemen and Pakistan) place limits on encryption software. When in doubt, ask your local IT team for advice: in general they will work with you to ensure that your computer's hard drive is appropriately encrypted using Intune.
+## Principes
+- Utilisez les systèmes approuvés de Mercy Corps pour le transfert et le stockage de données cryptées (par exemple, Microsoft SharePoint ou Google Drive). En cas de doute, demandez conseil à votre équipe informatique locale.
+- Cryptez les données sensibles à tous les stades de leur collecte, utilisation, transmission et stockage.
+- Utilisez des mots de passe forts et ne réutilisez pas les mots de passe. Les listes de mots de passe circulent en ligne et permettent à une per-sonne possédant l'un de vos mots de passe d'accéder plus facilement à plusieurs de vos comptes ou fichiers ! Vous pouvez utiliser un ges-tionnaire de mots de passe, tel que [Lastpass](https://www.lastpass.com/). Cependant, les gestionnaires de mots de passe peuvent être vulnérables aux cyberattaques par de fausses applications. Il est donc essentiel que les gestionnaires de mots de passe soient utilisés dans le cadre d'une approche plus large de la sécurisation des données.
+- Dans un environnement d'équipe, le cryptage est aussi bon que le maillon le plus faible. Si une seule personne n'utilise pas le cryptage, les don-nées de votre programme sont en danger. Il est extrêmement important de communiquer ce point à votre équipe : le cryptage n'est pas seulement une question de technologie, mais aussi de changement de comportement.
+- Comprenez les lois qui régissent le cryptage dans votre pays. Les lois locales d'un certain nombre de pays (comme le Soudan, le Yémen et le Pa-kistan) imposent des limites aux logiciels de cryptage. En cas de doute, demandez conseil à votre équipe informatique locale : en général, elle travaillera avec vous pour s'assurer que le disque dur de vos ordinateurs soit correctement crypté à l'aide d'Intune.
 
 ## Instructions
 
-1. Open the Word, Excel, or PowerPoint file you want to encrypt and select the `File` menu.
+1. Ouvrez le fichier Word, Excel ou PowerPoint que vous souhaitez crypter et sélectionnez le menu `Fichier`.
 
 ![Uploading a file](images/Encrypt1.png)
 
-2. Navigate to `Info` > `Protect Document` > `Encrypt with Password`.
+2. Naviguez jusqu'à `Info` > `Protéger le document` > `Crypter avec un mot de passe`.
 
 ![Uploading a file](images/Encrypt3.png)
 
-3. Type a password, click `OK` then type it again to confirm it.
+3. Tapez un mot de passe, cliquez sur `OK` puis tapez-le à nouveau pour le confirmer.
 
 ![Uploading a file](images/Encrypt4.png)
 
-4. Save the file to make sure the password takes effect.
+4. Ouvrez le fichier pour vous assurer que le mot de passe prenne effet.
 
 ![Uploading a file](images/Encrypt5.png)
 
-Now you can share the file and the password with those who require access. It is best practice to place the file on a Mercy Corps approved cloud service such as G Suite or SharePoint. Remember to send the file link and password links separately. For example, you could share the file using Google Drive (see the File Sharing section) and generate a notice that the file has been shared via Google, then share the password via an email to a colleague.
+Vous pouvez maintenant partager le fichier et le mot de passe avec les personnes qui ont besoin d'y accéder. La meilleure pratique consiste à placer le fichier sur un service en nuage approuvé par Mercy Corps, tel que G Suite ou SharePoint. N'oubliez pas d'envoyer le lien du fichier et celui du mot de passe séparément. Par exemple, vous pouvez partager le fichier à l'aide de Google Drive (voir le guide *Meilleures pratiques en matière de partage de fichiers*) et générer un avis indiquant que le fichier a été partagé via Google, puis communiquer le mot de passe par courrier électronique à un collègue
 
-## Further Assistance
-- The Electronic Cash Transfer Learning Action Network's [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a tip sheet for encryption (see Tip sheet #5).
-- The Electronic Frontier Foundation provides a more [detailed look at various forms of encryption here](https://ssd.eff.org/en/module/what-should-i-know-about-encryption).
-- The Engine Room's [Hand-Book of the Modern Development Specialist includes a section on Managing Data](https://the-engine-room.github.io/responsible-data-handbook/) that provides additional, high-level, thoughts on encryption.
+## Assistance supplémentaire
+- Le [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) du Electronic Cash Transfer Learning Action Network fournit une fiche de conseils pour le cryptage (voir fiche de conseils n° 5).
+- L'Electronic Frontier Foundation [fournit un aperçu plus détaillé des différentes formes de cryptage](https://ssd.eff.org/en/module/what-should-i-know-about-encryption).
+- Le [*manuel du spécialiste en développement moderne*](https://the-engine-room.github.io/responsible-data-handbook/) de l'Engine Room comprend une section sur la gestion des données qui fournit des réflexions supplémentaires de haut niveau sur le cryptage.
