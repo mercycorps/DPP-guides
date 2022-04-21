@@ -1,48 +1,47 @@
-# Pseudonymization
-This is an example of one way to de-identify data in a spreadsheet. There are a wide variety of ways to perform de-identification and this example uses a "key code" to remove personally identifiable information (PII) found in direct identifiers and keep it in a separate file. Personally Identifiable Information (PII) is information that can be used to identify an individual. Common examples are name, address, phone number, date of birth, and social security or national ID number.
+# Seudonimización
+Este es un ejemplo de una forma de desidentificar datos en una hoja de cálculo. Hay una gran variedad de métodos de desidentificación y este ejemplo usa un «código clave» para eliminar la información de identificación personal que se encuentra en los identificadores directos y guardarla en un archivo separado. La información de identificación personal (PII) es información que se puede usar para identificar a un individuo. Los ejemplos más comunes son el nombre, dirección, número de teléfono, fecha de nacimiento y número de seguro social o de identificación nacional.
 
-We've created a sample data set for this exercise, which [you can find it in the data folder here](data/Pseudonymization_example.csv). These data were originally created for the Humanitarian Data Centre's [online tutorial for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/). We have added fields containing PII for this exercise.
+El ejercicio usa un [conjunto de datos de muestra que se encuentra en la carpeta de datos aquí](data/Pseudonymization_example.csv). Una vez que terminado la seudonimización de los datos de muestra, se puede continuar con el tutorial del Humanitarian Data Centre [para realizar una evaluación del riesgo de divulgación](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/).
 
-## Step 1 - Identify PII
-Start by identifying PII in the data. Ideally, you will have metadata - data or a document that defines your data - to help you understand which fields contain PII. In the sample data, there are three columns that contain potential PII:
-- `#respondee +name` appears to contain a name.
-- `#respondee +code` likely contains an identification number of some kind.
-- `#respondee +contact` possibly contains a mobile phone number
+## Paso 1: identificar la PII
+Comience por identificar la PII en los datos. Lo ideal es que disponga de metadatos (datos o un documento que defina sus datos) para ayudarle a comprender los campos que tienen PII. En los datos de la muestra, hay tres columnas que tienen posible PII::
+- `#respondee +name` parece incluir un nombre.
+- `#respondee +code` probablemente tiene un número de identificación de algún tipo.
+- `#respondee +contact` posiblemente tiene un número de teléfono móvil.
 
-Each of these direct identifiers uses the [Humanitarian Exchange Language for tagging data](https://hxlstandard.org).
+Cada uno de estos identificadores directos usa el [Humanitarian Exchange Language para etiquetar los datos](https://hxlstandard.org).
 
 ![Find PII](images/Step1-Find-PII.png)
 
-## Step 2 - Create New Columns for the Key Code
-We will use a key code, a value that we generate, to break out the PII. Since the the direct identifiers are all grouped together, we'll create two new columns between columns C, `#respondee +contact` and column D, `province`. In Excel, we do this by highlighting a column to the right of where we want to insert new columns, right-click on the column and select `Insert`. Repeat this process again to create another empty column.
+## Paso 2: crear nuevas columnas para el código clave
+Usaremos un código clave, un valor que generamos, para separar la PII. Como los identificadores directos están todos agrupados, crearemos dos nuevas columnas entre las columnas C, `#respondee +contact` y la columna D, `province`. En Excel, lo hacemos al resaltar una columna a la derecha de donde queremos insertar nuevas columnas, hacemos clic con el botón derecho en la columna y seleccionamos `Insert`. Vuelva a repetir este proceso para crear otra columna vacía.
 
 ![Create New Columns](images/Step2-create-columns.png)
 
-## Step 3 - Create the Key Code
-Start by naming your new columns. We'll use "key code" in each of them: each column will hold the same values. This would be a good time to update any metadata about this dataset to explain what `key code` means! Next, we'll use [Excel's Auto Fill feature](https://support.microsoft.com/en-us/office/fill-data-automatically-in-worksheet-cells-74e31bdd-d993-45da-aa82-35a236c5b5db) to create a simple code. Type `Respondee01` in the first cell. Next, highlight that cell, click on the drag handle in the lower right corner of the cell, and drag down to the end of the data set. This will automatically fill in the final number of each record so that each respondee now has a new code.
+## Paso 3: crear el código clave
+Comience por nombrar sus nuevas columnas. Usaremos el «código clave» en cada una de ellas: cada columna contendrá los mismos valores. Este sería un buen momento para actualizar los metadatos de este conjunto de datos y explicar el significado del código clave. A continuación, usaremos la [función de Llenado Automático de Excel](https://support.microsoft.com/en-us/office/fill-data-automatically-in-worksheet-cells-74e31bdd-d993-45da-aa82-35a236c5b5db) para crear un código sencillo. Escriba `Respondee01` in the first cell. en la primera celda. A continuación, resalte esa celda, haga clic en el manejador de arrastre de la esquina inferior derecha de la celda y arrastre hasta el final del conjunto de datos. Esto llenará automáticamente el número final de cada registro para que cada respondedor tenga ahora un nuevo código.
 
 ![Create Key Code](images/Step3-create-key-code.png)
 
-## Step 4 - Duplicate the Key Code and Remove Formulas
-Now we will copy the key code and paste it into the adjacent column. You can do this using basic keyboard commands such as `ctrl + C` or highlight the cells you want to copy, right click on them, and select `Copy`. In the adjacent column highlight the cells you want to paste the new key code into, right-click, and choose `Paste`. I've chosen to specifically paste only values. If you have used a formula to create a new code, then it will be important to retain *only the values* for use as a key code!
+## Paso 4: duplicar el código clave y eliminar las fórmulas
+Ahora copiaremos el código clave y lo pegaremos en la columna adyacente. Puede hacerlo con comandos básicos del teclado como `ctrl + c` o al resaltar las celdas que desea copiar, al hacer clic con el botón derecho del mouse y seleccionar `Copy`. En la columna adyacente, resalte las celdas en las que desea pegar el nuevo código clave, haga clic con el botón derecho y elija `Paste`. Opté por pegar específicamente solo los valores. Si ha usado una fórmula para crear un nuevo código, ¡será importante conservar solo los valores para usarlos como código clave!
 
 ![Duplicate Key Code](images/Step4-duplicate-key-code.png)
 
 ## Step 5 - Separate Direct and Indirect Identifiers
-Highlight the columns that contain the direct identifiers with PII along with one of the key code columns. In this example, we are highlighting columns A-D. Right-click on them and select `Cut`.
+Resalte las columnas que tienen los identificadores directos con PII junto con una de las columnas de códigos clave. En este ejemplo, resaltamos las columnas A-D. Haga clic con el botón derecho sobre ellas y seleccione `Cut`.
 
 ![Separate the data](images/Step5-separate-data.png)
 
-Next, open a new spreadsheet and paste these values using the keyboard shortcut `ctrl + V`, or other method. Save the new spreadsheet. You now have two spreadsheets: one of them contains indirect identifiers while the new sheet contains the direct identifiers with PII. Both datasets contain a key code for each record in the data so that all data can be recombined when necessary.
+A continuación, abra una nueva hoja de cálculo y pegue estos valores con el atajo de teclado `ctrl + v`, u otro método. Guarde la nueva hoja de cálculo. Ahora tiene dos hojas de cálculo: una tiene los identificadores indirectos mientras que la nueva tiene los identificadores directos con PII. Ambos conjuntos de datos tienen un código clave para cada registro de los datos, de modo que todos los datos se puedan recombinar cuando sea necesario.
 
 ![Separate the data](images/Step5a-separate-data.png)
 
+## Próximos pasos
+Ambos archivos tienen un código clave que permitirá volver a unirlos. Una forma de hacer esto en Excel, es usar la [función `VLOOKUP`](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1) para llenar automáticamente las celdas según el valor de otras celdas. En este caso, podría llenar las celdas vacías del archivo original con la PII que falta, según el valor del código clave.
 
-## Next Steps
-Both files contain a key code that will allow them to be put back together. One way to do this in Excel, is to use the [`VLOOKUP` function](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1) to automatically populate cells based on the value of other cells. In this case, you could populate empty cells in the original file with the missing PII based on the `keycode` value.
+Dado que el nuevo archivo tiene los identificadores directos que tienen PII, se debe almacenar de forma segura. Una forma excelente de hacerlo es cifrar el archivo y usar el almacenamiento en la nube para limitar el acceso al archivo (consulte las guías de _Mejores prácticas para el uso compartido de archivos_ y _Cifrado de un archivo_).
 
-Because the new file contains the direct identifiers containing PII, it must be stored securely. One excellent way to do this is to encrypt the file and to use cloud storage to limit who has access to the file (see the Encryption and File Sharing Best Practices guides).
+**Recuerde: aunque se ha desidentificado la hoja de cálculo original al eliminar los identificadores directos que tienen PII evidentes, los demás identificadores indirectos tienen el potencial de combinarse con otros datos o analizarse de forma que permitan identificar a una persona.** Por esta razón, ambos archivos se deben seguir almacenando de forma segura. Si se desea compartir el archivo original, no-PII, de forma más amplia, sería fundamental realizar una evaluación del riesgo de divulgación para garantizar que el riesgo de que los datos puedan ser reidentificados sea mínimo. El Humanitarian Data Centre tiene un [tutorial en línea para realizar una evaluación del riesgo de divulgación](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) con el [software estadístico de código abierto «R»](https://www.r-project.org/). Además, la página web de [Poverty Action Lab's *De-identification for data publication*](https://www.povertyactionlab.org/resource/data-de-identification) ofrece un excelente debate sobre la desidentificación de datos e incluye un código de muestra para el [software estadístico Stata](https://www.stata.com/). Para el personal de Mercy Corps, el [borrador de la guía de T4D](https://docs.google.com/document/d/1wFI5Ltvu9abtuRDVVZnbY2rdR61N3Eel4egZ02HuvU0/edit?usp=sharing) está disponible internamente y proporciona fórmulas adicionales en Excel.  
 
-**Remember: while the original spreadsheet has been deidentified by removing the direct identifiers that contain obvious PII, the other indirect identifiers have the potential to be combined with other data or analyzed in such a way as to allow for an individual to be identified.** For this reason, both files should still be stored securely. If you wanted to share the original, non-PII, file more widely it would be critical to perform a *disclosure risk assessment* to ensure the minimum amount of risk that the data could be re-identified. The Humanitarian Data Centre has an [online tutorial for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) using the [open source statistical software "R"](https://www.r-project.org/). Additionally, [Poverty Action Lab's *De-identification for data publication*](https://www.povertyactionlab.org/resource/data-de-identification) web page provides an excellent discussion of data deidentification and includes sample code for the [statistical software Stata](https://www.stata.com/). For Mercy Corps staff, [Draft Guidance from T4D](https://docs.google.com/document/d/1wFI5Ltvu9abtuRDVVZnbY2rdR61N3Eel4egZ02HuvU0/edit?usp=sharing) is available internally and provides additional Excel formulas.  
-
-Finally, all of these steps together help mitigate risk or exposing PII, so they should be listed in the PIA (see the Privacy Impact Assessment guide) so that others understand how these data are being protected.
+Por último, todos estos pasos juntos ayudan a mitigar el riesgo o la exposición de la PII, por lo que deben estar en la PIA (consulte la guía de _Evaluación de impacto en la privacidad_) para que otros entiendan cómo se protegen estos datos.

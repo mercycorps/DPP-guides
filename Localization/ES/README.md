@@ -1,36 +1,36 @@
 **Localization**
+- Please find the English translation of this content here.
 - Please find the Ukrainian translation of this content here.
 - Veuillez trouver la traduction française de ce contenu ici.
 - Please find the Arabic translation of this content here.  
 - Please find the Russian translation of this content here.
 
-# Data Protection & Privacy Guides
-The following content is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The information can be taken all together as a comprehensive guidebook, or each section can be used as a standalone guide to a particular topic. The following topics are presented:
+# Guías de protección de datos y privacidad
+El siguiente contenido está diseñado para ayudar al personal de Mercy Corps a tener un mejor entendimiento e implementar mejor las prácticas de datos responsables. Reúne varias políticas y documentos de orientación existentes de Mercy Corps junto con algunos tutoriales sencillos y enlaces a otros recursos. La información se puede tomar en conjunto como una guía completa, o se puede usar cada sección como una guía independiente sobre un tema en particular.
 
-- **[Sensitive data](/Sensitive-data)** - defines what sensitive data is and provides guidance for its collection and use.
-- **[Privacy Impact Assessment (PIA)](Privacy-impact-assessment)** - provides details regarding PIAs and the assessment templates required by Mercy Corps' Responsible Data policy.
-- **[File sharing](/File-sharing)** - presents an overview of best practices using G Suite at Mercy Corps and a brief tutorial.
-- **[Deidentification](/Deidentification)** - contains an overview of de-identification - including anonymization and pseudonymization - and an example of one way to deidentify a dataset using spreadsheet software.
-- **[Encryption](/Encryption)** - provides a brief overview of encryption and provides an example of one way to encrypt a file using software available within Mercy Corps.
+- **[Comprensión de los datos confidenciales](/Localization/ES/Sensitive-data)** - Define que son los datos confidenciales y proporciona orientación para su recolección y uso.
+- **[Evaluaciones de impacto en la privacidad (PIA)](/Localization/ES/Privacy-impact-assessment)** - Proporciona detalles sobre las PIA y las plantillas de evaluación requeridas por la política de Datos Responsables de Mercy Corps.
+- **[Mejores prácticas para el uso compartido de archivos](/Localization/ES/File-sharing)** - Presenta una visión general de las mejores prácticas de uso de G Suite en Mercy Corps y un breve tutorial.
+- **[Desidentificación de datos](/Localization/ES/Deidentification)** - Ofrece una breve visión general del cifrado y proporciona un ejemplo de una forma de cifrar un archivo con el software disponible en Mercy Corps.
+- **[Cifrado de un archivo](/Localization/ES/Encryption)** - Contiene una visión general de la desidentificación, lo que incluye la anonimización y la seudonimización, y un ejemplo de una forma de desidentificar un conjunto de datos con un software de hoja de cálculo.
 
-While the guide is primarily intended for Mercy Corps staff, and is designed to accompany the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit), we are releasing it under open license so that it may benefit partners, peer-organizations, and others in need of example policies, templates, and instructions for implementing responsible data practices.
+Aunque la guía está destinada principalmente al personal de Mercy Corps, y está diseñada para acompañar el [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit), la publicamos con una licencia abierta para el beneficio de los socios, las organizaciones homólogas y otras personas que necesiten ejemplos de políticas, plantillas e instrucciones para la implementación de prácticas de datos responsables. .
 
-## Citations and acknowledgments
-The content provided in this guide is all part of good data management practices and the larger data life cycle, or the overall activities for individual data management as part of a program or response. The following resources are excellent places to start for a more complete understanding of managing your data responsibly. We have used or cited portions of all of these resources throughout the Guide and refer to specific chapters or sections that are most pertinent to a specific topic.
+## Citas y agradecimientos
+El contenido ofrecido en esta guía forma parte de las buenas prácticas de gestión de datos y del ciclo de vida más amplio de los datos, o las actividades generales de recolección de datos individuales como parte de un programa o respuesta. Los siguientes recursos son excelentes para comenzar a comprender mejor la gestión de los datos de forma responsable. Hemos usado o citado partes de todos estos recursos a lo largo de la Guía y nos referimos a los capítulos o secciones específicas que son más pertinentes para un tema concreto.
 
-- The Cash Learning Partnership's *Data Responsibility Toolkit* is designed for cash and voucher practitioners specifically, but is a gold standard in guidance for responsible data. The Toolkit is available in [English](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf), [Arabic](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), [French](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), and [Spanish](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
-- The [Electronic Cash Transfer Learning Action Network's *Data Starter Kit for Humanitarian Field Staff*](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) provides a series of data tip sheets for understanding various aspects of good data management and protection practices.
-- The [International Committee of the Red Cross' *Handbook on Data Protection in Humanitarian Action*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) is a detailed guide to almost every aspect of humanitarian data.
-- The [International Federation of Red Cross and Red Crescent Societies *Data Playbook*](https://preparecenter.org/toolkit/data-playbook-toolkit/) is an excellent resource of exercises, session plans, checklists, and other materials to help you organize conversations and activities with your team to develop responsible data activities.
-- The Humanitarian Data Centre's [online tutorial for conducting a disclosure risk assessment](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) is a very specific, technical resource, but one that is indispensable for truly reducing the risk of data being used to identify individuals.
-- The [Engine Room's *Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) is a good overview of data in the context of international development activities.
+- El *Data Responsibility Toolkit* de Cash Learning Partnership está diseñado específicamente para los profesionales que reciben su pago en efectivo y vales, pero es una regla de oro en la orientación para los datos responsables. El está disponible en [inglés](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf), [árabe](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), [francés](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/), y [español](https://www.calpnetwork.org/es/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
+- El [Electronic Cash Transfer Learning Action Network's *Data Starter Kit for Humanitarian Field Staff*](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) ofrece una serie de hojas de consejos sobre datos para comprender diversos aspectos de las buenas prácticas de gestión y protección de datos.
+- El [*Handbook on Data Protection in Humanitarian Action*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) de la Cruz Roja y de la Media Luna Roja es una guía detallada de casi todos los aspectos de los datos humanitarios.
+- El [*Data Playbook*](https://preparecenter.org/toolkit/data-playbook-toolkit/) de la Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja es un excelente recurso de ejercicios, planes de sesiones, listas de comprobación y otros materiales que le ayudarán a organizar conversaciones y actividades con su equipo para desarrollar las actividades de datos responsables.
+- El tutorial en línea del Humanitarian Data Centre para realizar [una evaluación del riesgo de divulgación](https://centre.humdata.org/learning-path/disclosure-risk-assessment-overview/) es un recurso muy específico y técnico, pero es indispensable para una reducción real del riesgo de que se usen los datos para identificar personas.
+- El [*Handbook of the Modern Development Specialist*](https://the-engine-room.github.io/responsible-data-handbook/) del Engine Room es una buena visión general de los datos en el contexto de las actividades de desarrollo internacional.
 
 ## Contact & Contributions
-This repo is maintained by the Data Protection & Privacy team at [Mercy Corps](https://www.mercycorps.org) and is part of work to expand the [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). You can submit updates or additions to this material via a Github pull request ([read about pull requests here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)) or by contacting us at dataprotection@mercycorp.org.
+Este repositorio es mantenido por el equipo de Protección de Datos y Privacidad de [Mercy Corps](https://www.mercycorps.org) y es parte del trabajo para expandir el [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit). Puede enviar actualizaciones o adiciones a este material a través de una solicitud de extracción de Github ([lea sobre las solicitudes de extracción aquí](https://docs.github.com/es/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github)) o poniéndose en contacto con nosotros en dataprotection@mercycorp.org.
 
 ## License
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International][cc-by-nc].
+El uso de esta obra está permitido según la licencia abierta [Creative Commons Attribution-NonCommercial 4.0 International][cc-by-nc].
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 

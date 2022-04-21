@@ -11,7 +11,7 @@ Pour partager le fichier, cliquez avec le bouton droit de la souris sur le fichi
 
 ![Uploading a file](images/Filesharing_Gdrive_Step2.png)
 
-  - Ne donnez l'accès qu'à ceux qui ont besoin du fichier. Lorsque vous partagez un fichier dans Mon lecteur, le paramètre par défaut est `Restreint` (aux personnes ou aux groupes), ce qui est la meilleure pratique. Les contenus confidentiels, privés ou contenant des informations person-nelles identifiables (PII) devraient *toujours* avoir un accès restreint.
+  - Ne donnez l'accès qu'à ceux qui ont besoin du fichier. Lorsque vous partagez un fichier dans Mon lecteur, le paramètre par défaut est `Restreint` (aux personnes ou aux groupes), ce qui est la meilleure pratique. Les contenus confidentiels, privés ou contenant des informations personnelles identifiables (PII) devraient *toujours* avoir un accès restreint.
   - L'option `Toute personne ayant le lien` ne doit être utilisée que pour les fichiers qui ne contiennent aucune information confidentielle et qui sont ouverts au public. Si le paramètre `Toute personne ayant le lien` est utilisé sur un fichier contenant des données confidentielles privées, personnelles ou financières, il pourrait facilement et accidentellement être partagé et faire courir un risque juridique immédiat à Mercy Corps et faciliter l'utilisation des informations à des fins criminelles par de mauvais acteurs.
 
 ## Étape 3 - Sélectionner le niveau d'accès
@@ -24,7 +24,7 @@ Une autre option consiste à envoyer un courriel distinct contenant un lien vers
 ![Uploading a file](images/Filesharing_Gdrive_Step3b.png)
 
 - Pour en savoir plus sur les niveaux d'accès, visitez [Partager et collaborer dans My Drive](https://support.google.com/a/users/answer/9310248?hl=fr).
-- Si vous limitez un fichier et qu'une personne ayant un accès partage le lien avec une autre personne, cette dernière n'aura pas automatique-ment accès à ce contenu dans Google Drive. Au lieu de cela, ils verront une page web avec la possibilité de demander un accès. La demande d'accès sera adressée au propriétaire du dossier. Les demandes d'accès doivent être examinées, et les personnes, qui reçoivent les de-mandes d'accès, ne doivent pas simplement accorder l'autorisation à toutes les demandes, sans examiner les notes et considérations ci-dessus.
+- Si vous limitez un fichier et qu'une personne ayant un accès partage le lien avec une autre personne, cette dernière n'aura pas automatiquement accès à ce contenu dans Google Drive. Au lieu de cela, ils verront une page web avec la possibilité de demander un accès. La demande d'accès sera adressée au propriétaire du dossier. Les demandes d'accès doivent être examinées, et les personnes, qui reçoivent les de-mandes d'accès, ne doivent pas simplement accorder l'autorisation à toutes les demandes, sans examiner les notes et considérations ci-dessus.
 
 ## Étape 4 - Accès temporaire
 Une fois l'autorisation accordée, la période de partage peut être raccourcie. Pour limiter l'accès, cliquez à nouveau sur le fichier avec le bouton droit de la souris, puis cliquez sur `Partager`. Trouvez l'adresse électronique que vous venez de partager et faites un clic droit sur le niveau d'accès. Vous verrez apparaître de nouvelles options ; sélectionnez `Donner un accès temporaire`.
