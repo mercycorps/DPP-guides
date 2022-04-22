@@ -1,3 +1,5 @@
+**Other formats**: See the [video associated with this guide here](https://youtu.be/0o_jdQiTkvo). Access this guide [in PDF here](http://dldocs.mercycorps.org/DPPEncryptionGuide.pdf).
+
 # Encrypting a File
 This section addresses a basic example of encrypting a file using a Microsoft feature available on Mercy Corps computers. There are a range of factors to consider when encrypting a file, but here we focus on using a password and encryption of a single file. See the links below for resources that explore encryption in more depth. For this guide, however, it is useful to understand the subtle difference between "password protection" and "encryption".
 

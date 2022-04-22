@@ -1,3 +1,5 @@
+**Other formats**: See the [video associated with this guide here](https://youtu.be/RrHIw10VW4I). Access this guide [in PDF here](http://dldocs.mercycorps.org/DPPSensitiveDataGuide.pdf).
+
 # Understanding Sensitive Data
 Understanding the different classifications of data can be difficult, but they are an important part of working with humanitarian data. For example, what is the difference between personal data and sensitive data? Particular types of data may require special care in accordance with regional or national laws or organizational policies, and can present different types of risk to both program participants and organizations. Sensitive data is a sub-category of personal data and this section provides detailed guidance for processing and understanding it.
 

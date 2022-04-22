@@ -1,3 +1,5 @@
+**Other formats**: See the [video associated with this guide here](https://youtu.be/GQh1ziSbUT0). Access this guide [in PDF here](http://dldocs.mercycorps.org/DPPFileSharingGuide.pdf).
+
 # File Sharing Best Practices: Gsuite
 This section will cover file sharing best practices for Mercy Corps team members using G Suite apps, particularly Google My Drive. To simplify this guide, we will be discussing sharing a single *file*, such as a spreadsheet. However, the same options are available when sharing a My Drive *folder*.
 

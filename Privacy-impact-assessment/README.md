@@ -1,3 +1,5 @@
+**Other formats**: See the [video associated with this guide here](https://youtu.be/b44SZiL811I). Access this guide [in PDF here](http://dldocs.mercycorps.org/DPPPrivacyImpactAssessmentGuide.pdf).
+
 # Privacy Impact Assessments
 This guide will help you understand a Privacy Impact Assessment (PIA) and contains the PIA guidance and template used at Mercy Corps. The PIA template contains a series of questions that create a framework for identifying the potential privacy risks related to data collection and management that are part of implementing a new program or technology. A PIA is also important when the context of a program changes significantly and new risks or scenarios need to be considered.
 

@@ -1,9 +1,4 @@
-**Localization**
-- Please find the [English translation of this content here](README.md).
-- Please find the Ukrainian translation of this content here.
-- Encuentre [la traducción al español de este contenido aquí](Localization/EN).
-- Please find the Arabic translation of this content here.  
-- Please find the Russian translation of this content here.
+**Autres formats**: Voir [les vidéos associée à ce guide ici](https://www.youtube.com/watch?v=csQeiKNfDug&list=PLaVDHGzUa-tRmdNNY16ZG85pOqLGKto54&index=1). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DataProtectionPrivacyGuidesFR.pdf).
 
 # Guides de protection des données et de confidentialité
 Le contenu ci-après est conçu pour aider le personnel de Mercy Corps à mieux comprendre et à mettre en œuvre des pratiques responsables en matière de données. Il rassemble plusieurs politiques et documents d'orientation existants de Mercy Corps, ainsi que des tutoriels simples et des liens vers d'autres ressources. Les informations peuvent être prises dans leur ensemble comme un guide complet, ou chaque section peut être utilisée comme un guide autonome sur un sujet particulier.

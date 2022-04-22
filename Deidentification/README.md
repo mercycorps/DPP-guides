@@ -1,3 +1,5 @@
+**Other formats**: See the [video associated with this guide here](https://youtu.be/MX0Y1UjL73g). Access this guide [in PDF here](http://dldocs.mercycorps.org/DPPDeidentifyingDataGuide.pdf).
+
 # Deidentifying Data
 This guide provides an example of removing personally identifiable information (PII) from a dataset. There are several ways to "de-identify" data, which refers to the processing activities or methods that work to prevent a Data Subject’s identity from being revealed. Two common types of de-identification are "Anonymization" and "Pseudonymization."
 

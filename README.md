@@ -9,7 +9,7 @@
 The following content is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The information can be taken all together as a comprehensive guidebook, or each section can be used as a standalone guide to a particular topic. The following topics are presented:
 
 - **[Sensitive data](/Sensitive-data)** - defines what sensitive data is and provides guidance for its collection and use.
-- **[Privacy Impact Assessment (PIA)](Privacy-impact-assessment)** - provides details regarding PIAs and the assessment templates required by Mercy Corps' Responsible Data policy.
+- **[Privacy Impact Assessment (PIA)](/Privacy-impact-assessment)** - provides details regarding PIAs and the assessment templates required by Mercy Corps' Responsible Data policy.
 - **[File sharing](/File-sharing)** - presents an overview of best practices using G Suite at Mercy Corps and a brief tutorial.
 - **[Deidentification](/Deidentification)** - contains an overview of de-identification - including anonymization and pseudonymization - and an example of one way to deidentify a dataset using spreadsheet software.
 - **[Encryption](/Encryption)** - provides a brief overview of encryption and provides an example of one way to encrypt a file using software available within Mercy Corps.
