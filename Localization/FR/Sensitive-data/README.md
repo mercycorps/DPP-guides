@@ -1,4 +1,4 @@
-**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/csQeiKNfDug). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPSensitiveDataGuideFR.pdf).
+**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/RrHIw10VW4I). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPSensitiveDataGuideFR.pdf).
 
 # Comprendre les données sensibles
 Comprendre les différentes classifications des données peut être difficile, mais elles constituent une partie importante du travail avec les données humanitaires. Par exemple, quelle est la différence entre les données personnelles et les données sensibles ? Certains types de données peuvent nécessiter une attention particulière conformément aux lois régionales ou nationales ou aux politiques organisationnelles et peuvent présenter différents types de risques pour les participants au programme et les organisations. Les données sen-sibles sont une sous-catégorie de données personnelles et cette section fournit des conseils détaillés pour les traiter et les comprendre.
