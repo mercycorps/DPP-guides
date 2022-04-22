@@ -1,7 +1,7 @@
 **Localization**
-- Please find the English translation of this content here.
+- Please find the [English translation of this content here](README.md).
 - Please find the Ukrainian translation of this content here.
-- Veuillez trouver la traduction française de ce contenu ici.
+- Veuillez trouver [la traduction française de ce contenu ici](Localization/FR).
 - Please find the Arabic translation of this content here.  
 - Please find the Russian translation of this content here.
 
