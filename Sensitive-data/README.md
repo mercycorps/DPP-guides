@@ -10,14 +10,14 @@ It is vital to take the necessary steps to protect these data.
 
 It is vital to take the necessary steps to protect these data.
 
-## Guidance Documents
+## Guidance
 This section contains two documents:
 - "Guidance for processing of sensitive data" introduces you to sensitive data, key terms, and things to consider when planning its collection, storage, analysis, and sharing.
   - Mercy Corps staff can access the Guidance [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38516).
-  - Anyone can access [a version of the guidance here in PDF](http://dldocs.mercycorps.org/SensitiveDataProcessingGuidance.pdf).
+  - Anyone can download the guidance as a PDF document in [English](https://dldocs.mercycorps.org/SensitiveDataProcessingGuidance.pdf), [Arabic](https://dldocs.mercycorps.org/SensitiveDataGuidance-AR.pdf), [Spanish](https://dldocs.mercycorps.org/SensitiveDataGuidance-ES.pdf), [French](https://dldocs.mercycorps.org/SensitiveDataGuidance-FR.pdf), and [Russian](https://dldocs.mercycorps.org/SensitiveDataGuidance-RU.pdf).
 - "Sensitive Information Assessment (SIA) Template" can be used with a Privacy Impact Assessment to document all additional safeguards being employed for sensitive data. This document also sets out the different legal bases that can be used to justify the collection and use of sensitive data.
   - Mercy Corps staff can access the SIA template [here in Mercy Corp's internal Digital Library](https://library.mercycorps.org/record/38611).
-  - Anyone can download the template as a [Microsoft Word file here](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate.docx).
+  - Anyone can download the template as a Microsoft Word file here in [English]](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate.docx), [Arabic](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate-AR.docx), [Spanish](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate-ES.docx), [French](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate-FR.docx), and [Russian](http://dldocs.mercycorps.org/SensitiveInformationAssessmentTemplate-RU.docx).
 
 ## Further Assistance
 Planning for the collection or use of sensitive data should be part of a larger strategy for the data life cycle of a program or activity. There are several resources that can help you.
