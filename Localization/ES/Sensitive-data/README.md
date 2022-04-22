@@ -1,3 +1,5 @@
+**Autres formats**: Vea [los videos asociados con esta guía aquí](https://youtu.be/RrHIw10VW4I). Accede a la guía [en formato PDF aquí](http://dldocs.mercycorps.org/DPPSensitiveDataGuideES.pdf).
+
 # Comprensión de los datos confidenciales
 La comprensión de las diferentes clasificaciones de los datos puede ser difícil, pero son una parte importante del trabajo con datos humanitarios. Por ejemplo, ¿cuál es la diferencia entre los datos personales y los datos confidenciales? Determinados tipos de datos pueden requerir un cuidado especial según las leyes regionales o nacionales o las políticas de la organización y pueden presentar diferentes tipos de riesgo tanto para los participantes del programa como para las organizaciones. Los datos confidenciales son una subcategoría de los datos personales y esta sección ofrece una guía detallada para su tratamiento y comprensión.
 

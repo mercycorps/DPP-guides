@@ -1,3 +1,5 @@
+**Autres formats**: Vea [los videos asociados con esta guía aquí](https://youtu.be/0o_jdQiTkvo). Accede a la guía [en formato PDF aquí](http://dldocs.mercycorps.org/DPPEncryptionGuideES.pdf).
+
 # Cifrado de un archivo
 Esta guía aborda un ejemplo básico del cifrado de un archivo con una función de Microsoft disponible en los equipos de Mercy Corps. Hay una serie de factores a tener en cuenta al cifrar un archivo, pero nos centramos en el uso de una contraseña y en el cifrado de un solo archivo. En los siguientes enlaces encontrará recursos que profundizan en el cifrado. Sin embargo, es útil entender la sutil diferencia entre «protección con contraseña» y «cifrado» en lo que refiere a esta guía.
 

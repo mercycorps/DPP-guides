@@ -1,3 +1,5 @@
+**Autres formats**: Vea [los videos asociados con esta guía aquí](https://youtu.be/b44SZiL811I). Accede a la guía [en formato PDF aquí](http://dldocs.mercycorps.org/DPPPrivacyImpactAssessmentGuideES.pdf).
+
 # Evaluaciones de impacto en la privacidad
 Esta guía le ayudará a entender la Evaluación de impacto en la privacidad (PIA) e incluye la orientación y la plantilla de la PIA usada en Mercy Corps. La plantilla de la PIA tiene una serie de preguntas que crean un marco para identificar los posibles riesgos para la privacidad relacionados con la recopilación y gestión de datos que forman parte de la implementación de un nuevo programa o tecnología. Una PIA también es im-portante cuando cambia el contexto de un programa significativamente y hay que considerar nuevos riesgos o escenarios.
 

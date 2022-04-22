@@ -1,3 +1,5 @@
+**Autres formats**: Vea [los videos asociados con esta guía aquí](https://youtu.be/MX0Y1UjL73g). Accede a la guía [en formato PDF aquí](http://dldocs.mercycorps.org/DPPDeidentifyingDataGuideES.pdf).
+
 # Desidentificación de los datos
 Esta guía ofrece un ejemplo de eliminación de información de identificación personal (PII) de un conjunto de datos. Hay varias formas de «desidentificar» los datos, lo que hace referencia a las actividades o métodos de tratamiento que funcionan para evitar que se revele la identidad de la persona registrada. Dos tipos comunes de desidentificación son la «anonimización» y la «seudonimización».
 

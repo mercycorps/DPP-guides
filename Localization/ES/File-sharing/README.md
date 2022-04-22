@@ -1,3 +1,5 @@
+**Autres formats**: Vea [los videos asociados con esta guía aquí](https://youtu.be/GQh1ziSbUT0). Accede a la guía [en formato PDF aquí](http://dldocs.mercycorps.org/DPPFileSharingGuideES.pdf).
+
 # Mejores prácticas para el uso compartido de archivos
 Esta guía cubre las mejores prácticas para el uso compartido de archivos para los miembros del equipo de Mercy Corps que usan las aplicaciones de G Suite, en particular Google My Drive. Para simplificar esta guía, hablaremos del uso compartido de _un solo archivo_, como una hoja de cálculo. Sin embargo, las mismas opciones están disponibles cuando se comparte _una carpeta_ de My Drive.
 
