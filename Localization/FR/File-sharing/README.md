@@ -1,3 +1,5 @@
+**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/GQh1ziSbUT0). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPFileSharingGuideFR.pdf).
+
 # Meilleures pratiques en matière de partage de fichiers
 Ce guide couvre les meilleures pratiques de partage de fichiers pour les membres de l'équipe de Mercy Corps qui utilisent les applications G Suite, en particulier Google My Drive. Pour simplifier ce guide, nous aborderons le partage d'un seul *fichier*, tel qu'une feuille de calcul. Cependant, les mêmes options sont disponibles lors du partage d'un *dossier My Drive*.
 

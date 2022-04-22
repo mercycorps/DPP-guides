@@ -1,3 +1,5 @@
+**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/0o_jdQiTkvo). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPEncryptionGuideFR.pdf).
+
 # Cryptage d'un fichier
 Ce guide aborde un exemple de base de cryptage d'un fichier à l'aide d'une fonction Microsoft disponible sur les ordinateurs de Mercy Corps. Il existe une série de facteurs à prendre en compte lors du cryptage d'un fichier, mais nous nous concentrons ici sur l'utilisation d'un mot de passe et le cryptage d'un seul fichier. Voir les liens ci-dessous pour des ressources qui explorent le cryptage de manière plus approfondie. Pour ce guide, il est toutefois utile de comprendre la différence subtile entre « protection par mot de passe » et « cryptage ».
 

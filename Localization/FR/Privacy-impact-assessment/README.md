@@ -1,3 +1,5 @@
+**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/b44SZiL811I). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPPrivacyImpactAssessmentGuideFR.pdf).
+
 # Évaluation des incidences sur la confidentialité (PIA)
 Ce guide vous aidera à comprendre une évaluation des incidences sur la vie privée (PIA) et contient les directives et le modèle de PIA utilisés par Mercy Corps. Le modèle PIA contient une série de questions qui créent un cadre permettant d'identifier les risques potentiels pour la vie privée liés à la collecte et à la gestion des données qui font partie de la mise en œuvre d'un nouveau programme ou d'une nouvelle technologie. Une PIA est également importante lorsque le contexte d'un programme change de manière significative et que de nouveaux risques ou scénarios doivent être pris en compte.
 
