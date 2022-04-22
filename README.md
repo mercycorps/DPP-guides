@@ -1,7 +1,7 @@
 **Localization**
 - Please find the Ukrainian translation of this content here. **In Progress**
-- Veuillez trouver [la traduction française de ce contenu ici](Localization/FR).
-- Encuentre [la traducción al español de este contenido aquí](Localization/ES).
+- Veuillez trouver [la traduction française de ce contenu ici](DPP-guides/Localization/FR).
+- Encuentre [la traducción al español de este contenido aquí](DPP-guides/Localization/ES).
 - Please find the Arabic translation of this content here. **In Progress**  
 - Please find the Russian translation of this content here. **In Progress**
 
