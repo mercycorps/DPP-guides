@@ -32,8 +32,6 @@
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 
 <!--
-
 ## Policies
 Point to MC privacy policy, mention PIA, & point to Github privacy policy?
-
 -->
