@@ -1,42 +1,43 @@
-**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/0o_jdQiTkvo). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPEncryptionGuideFR.pdf).
+**альтернативні формати**: [Дивіться відео для цього посібника тут](https://youtu.be/0o_jdQiTkvo). [Отримати доступ до цього довідника як до файла PDF](https://dldocs.mercycorps.org/DPPEncryptionGuideUA.pdf).
 
-# Cryptage d'un fichier
-Ce guide aborde un exemple de base de cryptage d'un fichier à l'aide d'une fonction Microsoft disponible sur les ordinateurs de Mercy Corps. Il existe une série de facteurs à prendre en compte lors du cryptage d'un fichier, mais nous nous concentrons ici sur l'utilisation d'un mot de passe et le cryptage d'un seul fichier. Voir les liens ci-dessous pour des ressources qui explorent le cryptage de manière plus approfondie. Pour ce guide, il est toutefois utile de comprendre la différence subtile entre « protection par mot de passe » et « cryptage ».
+# Шифрування файлу
+У цьому розділі розглядається простий приклад шифрування файлу за допомогою функції Microsoft, доступної на комп'ютерах Mercy Corps. Є цілий ряд факторів, які слід враховувати при шифруванні файлу, але тут ми зосередимося на використанні пароля та шифруванні одного файлу. Дивіться нижче посилання на ресурси, які досліджують шифрування глибше. Щодо цього посібника, однак, корисно зрозуміти тонку різницю між "захистом паролем" та "шифруванням".
 
-Considérez la protection par mot de passe comme une boîte munie d'un verrou. Lorsque vous « protégez » votre document par un mot de passe, vous le placez dans une boîte électronique que vous verrouillez à l'aide d'un mot de passe : seules les personnes disposant du mot de passe peuvent ouvrir la boîte. Cependant, si le mot de passe que vous choisissez n'est pas très fort, ou s'il est partagé avec la mauvaise personne, quelqu'un peut facilement entrer dans la boîte et voir votre document ! En revanche, le cryptage utilise des algorithmes complexes pour coder des informations, ce qui nécessite de disposer d'une clé pour décrypter ces informations. Imaginez que vous prenez votre document et le passez dans un destructeur de papier qui attribue une clé spéciale pour reconstituer le document.
-Lorsque vous combinez protection par mot de passe et cryptage, vous doublez effectivement votre protection. Si quelqu'un réussit à forcer le mot de passe du boîtier électronique, il ne pourra voir que les morceaux de papier déchiqueté sans avoir également la clé appropriée. Tous les ordinateurs portables de Mercy Corps sont cryptés à l'aide de Microsoft BitLocker. Cela permet d'éviter que le disque dur d'un ordinateur portable Mercy Corps soit retiré et accessible sur un autre ordinateur.
+Уявіть захист паролем як коробку з замком на ній. Коли ви "захищаєте паролем" свій документ, ви кладете його в електронну коробку і закриваєте паролем — відкрити коробку можуть лише ті, хто має пароль. Однак, якщо обраний вами пароль не дуже надійний, або якщо ви поділилися ним не з тією людиною, хтось може легко потрапити в цю коробку і переглянути ваш документ! На відміну від цього, шифрування використовує складні алгоритми для кодування інформації, що вимагає наявності ключа для розшифровки цієї інформації. Уявіть це, ніби ви взяли документ і пропустили його через шредер, на якому є спеціальна кнопка, щоби знову зібрати документ в одне ціле.
 
-## Importance
-Le cryptage est essentiel car il permet de garantir la confidentialité et la sécurité des informations. Sans cryptage, les données peuvent être interceptées et lues par toute personne qui y a accès. Lorsque vous envisagez de crypter ou non des données, posez-vous la question suivante : « Quel est le risque pour les participants aux programmes de Mercy Corps, son personnel et ses partenaires si ces données étaient perdues ou volées ? » Une bonne règle de base est de chiffrer tout ce qui contient des informations personnelles identifiables ou sensibles.
+Коли ви поєднуєте захист паролем і шифрування, то ефективно подвоюєте свій захист. Якщо хтось успішно зламає пароль до електронної коробки, він зможе побачити лише шматочки подрібненого паперу, якщо не має відповідного ключа. Усі ноутбуки Mercy Corps зашифровано за допомогою Microsoft BitLocker. Це запобігає тому, щоби жорсткий диск ноутбука Mercy Corps можна було вийняти та отримати до нього доступ на іншому комп'ютері.
 
-## Principes
-- Utilisez les systèmes approuvés de Mercy Corps pour le transfert et le stockage de données cryptées (par exemple, Microsoft SharePoint ou Google Drive). En cas de doute, demandez conseil à votre équipe informatique locale.
-- Cryptez les données sensibles à tous les stades de leur collecte, utilisation, transmission et stockage.
-- Utilisez des mots de passe forts et ne réutilisez pas les mots de passe. Les listes de mots de passe circulent en ligne et permettent à une personne possédant l'un de vos mots de passe d'accéder plus facilement à plusieurs de vos comptes ou fichiers ! Vous pouvez utiliser un gestionnaire de mots de passe, tel que [Lastpass](https://www.lastpass.com/). Cependant, les gestionnaires de mots de passe peuvent être vulnérables aux cyberattaques par de fausses applications. Il est donc essentiel que les gestionnaires de mots de passe soient utilisés dans le cadre d'une approche plus large de la sécurisation des données.
-- Dans un environnement d'équipe, le cryptage est aussi bon que le maillon le plus faible. Si une seule personne n'utilise pas le cryptage, les données de votre programme sont en danger. Il est extrêmement important de communiquer ce point à votre équipe : le cryptage n'est pas seulement une question de technologie, mais aussi de changement de comportement.
-- Comprenez les lois qui régissent le cryptage dans votre pays. Les lois locales d'un certain nombre de pays (comme le Soudan, le Yémen et le Pakistan) imposent des limites aux logiciels de cryptage. En cas de doute, demandez conseil à votre équipe informatique locale : en général, elle travaillera avec vous pour s'assurer que le disque dur de vos ordinateurs soit correctement crypté à l'aide d'Intune.
+## Важливість
+Шифрування дуже важливе, оскільки воно допомагає забезпечити конфіденційність та безпеку інформації. Без шифрування дані можуть бути перехоплені та прочитані будь-якою людиною, яка має до них доступ. При розгляді питання про те, чи потрібно шифрувати дані, запитайте себе: "Який існує ризик для учасників програм, співробітників і партнерів Mercy Corps у разі втрати або крадіжки цих даних?" Хороше практичне правило — шифрувати все, що містить інформацію, що ідентифікує особу, або чутливу інформацію.
 
-## Instructions
+## Принципи
+- Використовуйте затверджені системи Mercy Corps для зашифрованої передачі та зберігання даних (наприклад, Microsoft SharePoint або Google Диск). Якщо сумніваєтеся, зверніться за порадою до місцевої ІТ-команди.
+- Шифруйте чутливі дані на всіх етапах їх збору, використання, передачі та зберігання.
+- Використовуйте надійні паролі та не використовуйте паролі повторно. Списки паролів циркулюють в інтернеті та полегшують доступ до кількох ваших облікових записів або файлів тому, хто має один з ваших паролів! Можливо, ви захочете скористатися менеджером паролів, наприклад Lastpass. Однак менеджери паролів можуть бути вразливими до кібератак фальшивих додатків, тому вкрай важливо, щоби менеджери паролів використовувалися як частина ширшого підходу до захисту даних.
+- У командному середовищі шифрування настільки надійне, наскільки надійна його найслабша ланка. Якщо навіть одна людина не використовує шифрування, дані вашої програми перебувають під загрозою. Надзвичайно важливо донести своїй команді: шифрування — це питання не лише технологій, але й зміни поведінки.
+- Розберіться із законами, які регулюють шифрування у вашій країні. Місцеві закони в ряді країн (зокрема Судані, Ємені та Пакистані) накладають обмеження на програмне забезпечення для шифрування. Якщо сумніваєтеся, зверніться до місцевої ІТ-команди за порадою: як правило, вони співпрацюватимуть із вами, щоби забезпечити належне шифрування жорстких дисків ваших комп'ютерів за допомогою Intune.
 
-1. Ouvrez le fichier Word, Excel ou PowerPoint que vous souhaitez crypter et sélectionnez le menu `Fichier`.
+## Інструкції
+
+1. Відкрийте файл Word, Excel або PowerPoint, який потрібно зашифрувати, і виберіть меню "Файл".
 
 ![Uploading a file](images/Encrypt1.png)
 
-2. Naviguez jusqu'à `Info` > `Protéger le document` > `Crypter avec un mot de passe`.
+2. Перейдіть до "Інформація" > "Захистити документ" > "Шифрування паролем".
 
 ![Uploading a file](images/Encrypt3.png)
 
-3. Tapez un mot de passe, cliquez sur `OK` puis tapez-le à nouveau pour le confirmer.
+3. Введіть пароль, натисніть OK, а потім введіть його ще раз, щоби підтвердити.
 
 ![Uploading a file](images/Encrypt4.png)
 
-4. Ouvrez le fichier pour vous assurer que le mot de passe prenne effet.
+4. Збережіть файл, щоби переконатися, що пароль діє.
 
 ![Uploading a file](images/Encrypt5.png)
 
-Vous pouvez maintenant partager le fichier et le mot de passe avec les personnes qui ont besoin d'y accéder. La meilleure pratique consiste à placer le fichier sur un service en nuage approuvé par Mercy Corps, tel que G Suite ou SharePoint. N'oubliez pas d'envoyer le lien du fichier et celui du mot de passe séparément. Par exemple, vous pouvez partager le fichier à l'aide de Google Drive (voir le guide *Meilleures pratiques en matière de partage de fichiers*) et générer un avis indiquant que le fichier a été partagé via Google, puis communiquer le mot de passe par courrier électronique à un collègue
+Тепер ви можете поділитися файлом і паролем з тими, хто потребує доступу. Найкраще розміщувати файл на хмарному сервісі, затвердженому Mercy Corps, зокрема G Suite або SharePoint. Не забудьте надіслати посилання на файл і посилання на пароль окремо. Наприклад, ви можете поділитися файлом за допомогою Google Диска (див. розділ "Спільне використання файлів") і створити повідомлення про те, що файл був переданий через Google, а потім переслати пароль на електронну пошту колеги.
 
-## Assistance supplémentaire
-- Le [Data Starter Kit](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) du Electronic Cash Transfer Learning Action Network fournit une fiche de conseils pour le cryptage (voir fiche de conseils n° 5).
-- L'Electronic Frontier Foundation [fournit un aperçu plus détaillé des différentes formes de cryptage](https://ssd.eff.org/en/module/what-should-i-know-about-encryption).
-- Le [*manuel du spécialiste en développement moderne*](https://the-engine-room.github.io/responsible-data-handbook/) de l'Engine Room comprend une section sur la gestion des données qui fournit des réflexions supplémentaires de haut niveau sur le cryptage.
+## Додаткова підтримка
+- ["Довідник про дані для початківців"](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) від Electronic Cash Transfer Learning Action Network містить низку порад щодо шифрування (див. листок порад №5).
+- Electronic Frontier Foundation більш [детально розглядає різні форми шифрування](https://ssd.eff.org/en/module/what-should-i-know-about-encryption).
+- ["Довідник спеціаліста із сучасного розвитку"](https://the-engine-room.github.io/responsible-data-handbook/) від Engine Room містить розділ про керування даними, в якому наводяться додаткові думки високого рівня про шифрування.
