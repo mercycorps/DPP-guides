@@ -1,5 +1,5 @@
 **Localization**
-- Please find the Ukrainian translation of this content here. **In Progress**
+- Будь ласка, [знайдіть український переклад цього контенту тут](Localization/UA).
 - Veuillez trouver [la traduction française de ce contenu ici](Localization/FR).
 - Encuentre [la traducción al español de este contenido aquí](Localization/ES).
 - Please find the Arabic translation of this content here. **In Progress**  
