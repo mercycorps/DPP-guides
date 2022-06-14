@@ -3,7 +3,7 @@
 # Meilleures pratiques en matière de partage de fichiers
 Ce guide couvre les meilleures pratiques de partage de fichiers pour les membres de l'équipe de Mercy Corps qui utilisent les applications G Suite, en particulier Google My Drive. Pour simplifier ce guide, nous aborderons le partage d'un seul *fichier*, tel qu'une feuille de calcul. Cependant, les mêmes options sont disponibles lors du partage d'un *dossier My Drive*.
 
-**Note: Mercy Corps est en train de passer à Microsoft 365 pour le partage des fichiers. Une fois que les meilleures pratiques pour cette plateforme auront été établies, un document ou une ressource similaire sera créé.
+**Note: Mercy Corps est en train de passer à Microsoft 365 pour le partage des fichiers.** Une fois que les meilleures pratiques pour cette plateforme auront été établies, un document ou une ressource similaire sera créé.
 
 ## Importance
 Il existe plusieurs raisons pour lesquelles il est préférable de partager un fichier en l'hébergeant dans Google Drive et en envoyant un lien plutôt qu'une pièce jointe dans un courriel.
