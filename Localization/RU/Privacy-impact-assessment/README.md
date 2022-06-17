@@ -1,49 +1,52 @@
-**Autres formats**: Voir [les vidéos associée à ce guide ici](https://youtu.be/b44SZiL811I). Accéder au guide [en format PDF ici](http://dldocs.mercycorps.org/DPPPrivacyImpactAssessmentGuideFR.pdf).
+**Другие форматы**: [Посмотрите видео, связанное с этим руководством, здесь](https://youtu.be/b44SZiL811I). [Получить доступ к этому руководству в формате PDF можно здесь](http://dldocs.mercycorps.org/DPPPrivacyImpactAssessmentGuideRU.pdf).
 
-# Évaluation des incidences sur la confidentialité (PIA)
-Ce guide vous aidera à comprendre une évaluation des incidences sur la vie privée (PIA) et contient les directives et le modèle de PIA utilisés par Mercy Corps. Le modèle PIA contient une série de questions qui créent un cadre permettant d'identifier les risques potentiels pour la vie privée liés à la collecte et à la gestion des données qui font partie de la mise en œuvre d'un nouveau programme ou d'une nouvelle technologie. Une PIA est également importante lorsque le contexte d'un programme change de manière significative et que de nouveaux risques ou scénarios doivent être pris en compte.
+# Оценка влияния на конфиденциальность
+Это руководство поможет вам разобраться в оценке влияния на конфиденциальность (PIA). Оно содержит правила PIA и шаблон, используемые в Mercy Corps. Шаблон PIA содержит ряд вопросов, создающих основу для выявления потенциальных рисков для конфиденциальности, связанных со сбором данных, которые являются частью внедрения новой программы или технологии, а также управлением этими данными. PIA также имеет значение, когда контекст программы значительно меняется, и необходимо учитывать новые риски или сценарии.
 
-Une PIA est nécessaire chaque fois qu'un nouveau programme, projet ou technologie implique la collecte ou l'utilisation de données personnelles ou sensibles.
+PIA требуется для каждой новой программы, проекта или технологии, которые связаны со сбором или использованием личных или «чувствительных» данных.
 
-## Importance
-Une PIA vous permet d'analyser comment un projet particulier ou une nouvelle technologie affectera la vie privée des personnes concernées. Une EFVP permet également de documenter les stratégies d'atténuation qui protègent la vie privée des participants et renforcent la confiance du public dans notre travail. Une PIA permet d'identifier les problèmes potentiels dès le début, lorsque leur résolution sera plus simple, moins coûteuse et ne risquera pas de nuire aux participants ou au personnel du programme.
+## Важность
+PIA позволяет вам проанализировать, как конкретный проект или новая технология повлияют на конфиденциальность вовлеченных лиц. PIA также помогает документировать стратегии смягчения последствий, которые защищают конфиденциальность участников и укрепляют доверие общества к нашей работе. PIA
+гарантирует, что потенциальные проблемы будут выявлены на ранней стадии, когда их решение будет более простым, менее затратным и не подвергнет риску участников программы или персонал.
 
-## Principes
-Les principes qui sous-tendent une PIA sont similaires à ceux de toute utilisation sécurisée des données personnelles. Vous trouverez ci-dessous quelques principes clés qui ont été adaptés du [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/):
+## Принципы
+Принципы, лежащие в основе PIA, аналогичны принципам любого безопасного использования персональных данных. Ниже приведены некоторые ключевые принципы, адаптированные из [Cash Learning Partnership (CaLP)](https://www.calpnetwork.org/publication/protecting-beneficiary-privacy-principles-and-operational-standards-for-the-secure-use-of-personal-data-in-cash-and-e-transfer-programmes/):
 
-- identifier les risques pour la vie privée des personnes;
-- identifier les obligations de conformité en matière de confidentialité et de protection des données pour votre organisation;
-- faire preuve de responsabilité et de respect des politiques qui protègent les participants, les partenaires et le personnel du programme; et
-- s'assurer que l'organisation promeut le droit à la vie privée dans ses activités humanitaires et agit en tant que gestionnaire de données éthique.
+- Определите риски конфиденциальности для отдельных лиц.
+- Определите обязательства вашей организации по соблюдению конфиденциальности и защите данных.
+- Демонстрируйте подотчетность и соблюдение политик, защищающих участников программы, партнеров и персонал.
+- Убедитесь, что в своей гуманитарной деятельности организация продвигает право на неприкосновенность частной жизни и распоряжается данными, руководствуясь этическими нормами.
 
-## Directive
-Le personnel de Mercy Corps peut trouver le [Guide de la PIA dans la bibliothèque numérique](https://library.mercycorps.org/record/39051). Le document contient des réponses aux questions fréquemment posées concernant les PIA et des liens vers les archives internes de Mercy Corps des PIA complétées pour comparaison. Les directives de Mercy Corps en matière d'évaluation des incidences sur la vie privée sont disponibles pour tous en [anglais](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance.pdf), [arabe](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-AR.pdf), [espagnol](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-ES.pdf), [français](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-FR.pdf), [russe](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-RU.pdf), [polonais](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidancePL.pdf) et [ukrainien](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidanceUA.pdf).
+## Руководство
+Сотрудники Mercy Corps могут найти [Руководство по PIA в цифровой библиотеке](https://library.mercycorps.org/record/39052). Документ содержит ответы на часто задаваемые вопросы, связанные с PIA, и ссылки на внутренний архив Mercy Corps с завершенными PIA для сравнения. Руководство Mercy Corps по PIA доступно для всех на [английском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance.pdf), [арабском,](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-AR.pdf), [испанском,](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-ES.pdf), [французском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-FR.pdf), [русском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidance-RU.pdf), [Польский](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidancePL.pdf) и [Украинский](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIAGuidanceUA.pdf) языках.
 
-N’oubliez pas que :
-- Une PIA est *un processus* utilisé pour identifier et évaluer les risques pour la vie privée. Remplir un formulaire PIA n'est pas la fin du processus ! Réexaminez la PIA après le début de votre projet pour vous assurer qu'il n'y ait pas de nouveaux changements qui introduisent de nouveaux risques. Si c'est le cas, documentez les changements et les nouvelles stratégies d'atténuation nécessaires pour minimiser tout nouveau risque.
-- La réalisation d'une PIA implique de travailler avec des personnes de Mercy Corps, et parfois avec des organisations partenaires et d'autres personnes, pour identifier et réduire les risques d'atteinte à la vie privée. Par exemple, si vous utilisez une nouvelle technologie, vous devrez peut-être chercher à savoir si l'entreprise avec laquelle vous travaillez dispose d’une politique de confidentialité et quelles garanties technologiques elle utilise pour assurer la protection des données. Vous devrez peut-être aussi vous renseigner sur les réglementations relatives à la protection de la vie privée en vigueur dans votre pays d'activité. Trois sites Web que vous pouvez utiliser pour surveiller les données et les lois sur la protection de la vie privée au niveau national sont les suivants:
-  - [Data Protection Laws of the World](https://www.dlapiperdataprotection.com);
-  - [U.N. Conference on Trade and Development database of Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide); et
-  - [One Trust Data Guidance database of Global Privacy Laws](https://www.dataguidance.com/advisories/global-privacy-laws).
-- Il peut être utile de comparer les PIA de programmes similaires. Vous pouvez effectuer cette recherche par vous-même ou demander de l'aide à l'équipe chargée de la protection des données et de la confidentialité.
+Помните, что:
+- PIA — это _процесс_, используемый для выявления и сведения к минимуму угроз, связанных с конфиденциальностью. Заполнение формы PIA — это не конечный шаг процесса! Повторно просмотрите PIA после запуска проекта, чтобы убедиться в отсутствии новых изменений, создающих новые угрозы. Если эти угрозы есть, зафиксируйте изменения и новые стратегии смягчения последствий, необходимые для минимизации любой новой угрозы.
+- Проведение PIA предполагает работу с людьми из Mercy Corps, а иногда и с партнерскими и другими организациями для выявления и снижения угроз конфиденциальности. Например, если вы используете новую технологию, вам может потребоваться узнать о политике конфиденциальности вашего партнера и о том, какие технологические меры безопасности они используют для обеспечения защиты данных. Вам также может потребоваться узнать о соответствующих правилах конфиденциальности в вашей стране. Три веб-сайта, которые вы можете использовать для мониторинга данных национального уровня и законов о конфиденциальности:
+  - [Всемирные законы о защите данных](https://www.dlapiperdataprotection.com);
+  - База данных [Конференции ООН по торговле и развитию о Защите данных и законах о конфиденциальности во всем мире](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide); и
+  - [Единая база данных Trust Data Guidance по глобальным законам о конфиденциальности](https://www.dataguidance.com/advisories/global-privacy-laws).
+- Может быть полезно сравнить PIA похожих программ. Вы можете провести это исследование самостоятельно или обратиться за помощью к отделу по защите данных и конфиденциальности.
 
-## Modèles
-Le personnel de Mercy Corps peut trouver [le formulaire long de la PIA dans la bibliothèque numérique](https://library.mercycorps.org/record/34316). Le formulaire long est disponible pour tous en [anglais](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA.docx), [arabe](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-AR.docx), [espagnol](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-ES.docx), [français](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-FR.docx), [russe](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-RU.docx), [polonais](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-PL.docx) et [ukrainien](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-UA.docx).
+## Шаблоны
+Сотрудники Mercy Corps могут найти полную форму [шаблона PIA в цифровой библиотеке](https://library.mercycorps.org/record/39047). Полный шаблон PIA
+доступен для всех на [английском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA.docx), [арабском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-AR.docx), [испанском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-ES.docx), [французском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-FR.docx), [русском](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-RU.docx), [Польский](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-PL.docx) и [Украинский](http://dldocs.mercycorps.org/PrivacyImpactAssessmentPIA-UA.docx) языках.
 
-Chaque formulaire long de la PIA comprend cinq cas d'utilisation, qui sont expliqués ci-dessous. En cliquant sur les liens ci-dessous, vous accéderez à un écran où vous pourrez télécharger les versions anglaises des différents cas d'utilisation au format `.odt` (compatible avec Microsoft Word et les applications open source comme OpenOffice et LibreOffice) en cliquant sur `View raw` ou sur le bouton `Download`.
-- Une nouvelle **[Politique](PIA-templates/PIA-New-Policy-open.odt)**
-- Un nouveau **[Processus ou procédure](PIA-templates/PIA-New-Process-procedure.odt)**
-- Un nouveau **[logiciel ou système technologique](PIA-templates/PIA-New-Software-Technology-system.odt)**
-  - Il s'agit principalement de la mise en œuvre de nouveaux systèmes mondiaux, nationaux ou spécifiques à une équipe.
-  - Si vous sélectionnez ou utilisez un nouveau système dans le cadre d'un projet ou d'un programme plus vaste, utilisez plutôt l'option projet ou programme.
-- Un nouveau **[prestataire ou partenaire](PIA-templates/PIA-New-Vendor-Partner.odt)**
-  - Il s'agit principalement de valider les activités d'un fournisseur, d'un partenaire ou d'un tiers dans le cadre d'une activité unique ou ponctuelle.
-  - Si vous sélectionnez ou utilisez un nouveau fournisseur, partenaire ou tiers dans le cadre d'un projet ou d'un programme plus vaste, utilisez plutôt l'option projet ou programme.
-- Un nouveau **[Projet ou programme](PIA-templates/PIA-New-Project-Program.odt)**
-  - Cela peut concerner n'importe quelle phase ou aspect d'un projet ou d'un programme.
-  - *Il s'agit de l'option PIA plus complète*, qui comprend des dispositions relatives à la sélection de nouveaux logiciels ou systèmes technologiques, et/ou d'un nouveau fournisseur ou partenaire.
+Каждый полный шаблон PIA включает пять вариантов использования, которые объясняются ниже. Щелкнув по приведенным ниже ссылкам, вы попадете на экран, где любой желающий может скачать англоязычные версии отдельных вариантов использования в формате `.odt` (совместимые с Microsoft Word и приложениями с открытым
+исходным кодом, такими как OpenOffice и LibreOffice) выбрав опцию `View raw` (Просмотр в необработанном виде) или `Download` (Скачать).
+- новая **[Политика](PIA-templates/PIA-New-Policy-open.odt)**
+- новый **[Процесс или Процедура](PIA-templates/PIA-New-Process-procedure.odt)**
+- новая **[Программная или технологическая система](PIA-templates/PIA-New-Software-Technology-system.odt)**
+  - Это в первую очередь предназначено для внедрения новых систем на уровне всего мира, страны или коллектива.
+  - Если вы выбираете или используете новую систему как часть более крупного проекта или программы, вместо этого используйте опцию проекта или программы.
+- новый **[Поставщик или Партнер](PIA-templates/PIA-New-Vendor-Partner.odt)**
+  - Это в первую очередь предназначено для проверки действий поставщика, партнера или третьей стороны в рамках уникального или одноразового действия.
+  - Если вы выбираете или используете нового поставщика, партнера или третью сторону в рамках более крупного проекта или программы, вместо этого используйте опцию Проект или Программа.
+- новый **[Проект или Программа](PIA-templates/PIA-New-Project-Program.odt)**
+  - Это может относиться к любому этапу или аспекту проекта или программы.
+  - *Это наиболее полный вариант PIA*, который также включает язык для выбора нового программного обеспечения или технических систем и/или нового поставщика или партнера.
 
-## Assistance supplémentaire
-- Le [*Data Starter Kit*](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) de l'Electronic Cash Transfer Learning Action Network fournit une fiche de conseils pour les PIA (voir fiche de conseils n° 1).
-- Le bureau du commissaire à l'information du Royaume-Uni propose [un code de pratique détaillé pour la réalisation d'évaluations d'impact sur la vie privée](https://ico.org.uk/media/about-the-ico/consultations/2052/draft-conducting-privacy-impact-assessments-code-of-practice.pdf).
--  Le [*Manuel sur la protection des données dans l'action humanitaire*](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) du Comité international de la Croix-Rouge est un guide détaillé sur presque tous les aspects des données humanitaires. Le chapitre 5 traite spécifiquement des évaluations d'impact sur la vie privée.
+## Дальнейшая помощь
+- [Стартовый комплект данных](https://www.calpnetwork.org/wp-content/uploads/2020/06/DataStarterKitforFieldStaffELAN.pdf) от Electronic Cash Transfer Learning Action Network содержит список подсказок для PIA (см. список подсказок №1).
+- Управление Комиссара по защите информации в Великобритании предоставляет [подробный свод правил для проведения оценок влияния на конфиденциальность](https://ico.org.uk/media/about-the-ico/consultations/2052/draft-conducting-privacy-impact-assessments-code-of-practice.pdf).
+-  [Руководство по защите данных в гуманитарной деятельности](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) Международного комитета Красного Креста представляет собой подробное руководство практически по всем аспектам гуманитарных данных. В главе 5 конкретно рассматриваются оценки влияния на конфиденциальность.
