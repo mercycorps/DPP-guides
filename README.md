@@ -1,9 +1,9 @@
 **Localization**
-- Будь ласка, [знайдіть український переклад цього контенту тут](Localization/UA).
+- [Будь ласка, знайдіть український переклад цього контенту тут](Localization/UA).
 - Veuillez trouver [la traduction française de ce contenu ici](Localization/FR).
 - Encuentre [la traducción al español de este contenido aquí](Localization/ES).
 - Please find the Arabic translation of this content here. **In Progress**  
-- Please find the Russian translation of this content here. **In Progress**
+- [Здесь вы найдете русский перевод этого содержания](Localization/RU).
 
 # Data Protection & Privacy Guides
 The following content is designed to help Mercy Corps staff better understand and implement responsible data practices. It brings several existing Mercy Corps policies and guidance documents together with some simple tutorials and links to other resources. The information can be taken all together as a comprehensive guidebook, or each section can be used as a standalone guide to a particular topic. The following topics are presented:
