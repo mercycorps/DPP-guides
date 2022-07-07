@@ -14,7 +14,7 @@
 Цей розділ містить два документи.
 - "Довідник з обробки чутливих даних" знайомить вас із чутливими даними, ключовими термінами та речами, які
 слід враховувати при плануванні їх збору, зберігання, аналізу та обміну ними.
-  - Співробітники Mercy Corps можуть отримати доступ до посібника у [внутрішній цифровій бібліотеці Mercy Corps](https://library.mercycorps.org/record/39242).
+  - Співробітники Mercy Corps можуть отримати доступ до посібника у [внутрішній цифровій бібліотеці Mercy Corps](https://library.mercycorps.org/record/39600).
   - Будь-хто може завантажити документ із посібником [англійською](https://dldocs.mercycorps.org/SensitiveDataProcessingGuidance.pdf), [арабською](https://dldocs.mercycorps.org/SensitiveDataGuidance-AR.pdf), [іспанською](https://dldocs.mercycorps.org/SensitiveDataGuidance-ES.pdf), [французькою](https://dldocs.mercycorps.org/SensitiveDataGuidance-FR.pdf), [російською](https://dldocs.mercycorps.org/SensitiveDataGuidance-RU.pdf), [Польська](http://dldocs.mercycorps.org/SensitiveDataProcessingGuidancePL.pdf) та [Українська](http://dldocs.mercycorps.org/SensitiveDataProcessingGuidanceUA.pdf) мовами.
 - "Шаблон оцінки чутливої інформації (ОЧІ)" можна використовувати разом з оцінкою впливу на конфіденційність для документування всіх додаткових гарантій, які використовуються для чутливих даних. Цей документ також визначає різні правові основи, які можуть бути використані для виправдання збору та використання чутливих даних.
   - Співробітники Mercy Corps можуть отримати доступ до шаблону ОЧІ у [внутрішній цифровій бібліотеці Mercy Corps.](https://library.mercycorps.org/record/39246).
