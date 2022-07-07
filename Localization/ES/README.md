@@ -4,8 +4,8 @@ El siguiente contenido está diseñado para ayudar al personal de Mercy Corps a 
 - **[Comprensión de los datos confidenciales](/Localization/ES/Sensitive-data)** - Define que son los datos confidenciales y proporciona orientación para su recolección y uso.
 - **[Evaluaciones de impacto en la privacidad (PIA)](/Localization/ES/Privacy-impact-assessment)** - Proporciona detalles sobre las PIA y las plantillas de evaluación requeridas por la política de Datos Responsables de Mercy Corps.
 - **[Mejores prácticas para el uso compartido de archivos](/Localization/ES/File-sharing)** - Presenta una visión general de las mejores prácticas de uso de G Suite en Mercy Corps y un breve tutorial.
-- **[Desidentificación de datos](/Localization/ES/Deidentification)** - Ofrece una breve visión general del cifrado y proporciona un ejemplo de una forma de cifrar un archivo con el software disponible en Mercy Corps.
-- **[Cifrado de un archivo](/Localization/ES/Encryption)** - Contiene una visión general de la desidentificación, lo que incluye la anonimización y la seudonimización, y un ejemplo de una forma de desidentificar un conjunto de datos con un software de hoja de cálculo.
+- **[Desidentificación de datos](/Localization/ES/Deidentification)** - Contiene una visión general de la desidentificación, lo que incluye la anonimización y la seudonimización, y un ejemplo de una forma de desidentificar un conjunto de datos con un software de hoja de cálculo.
+- **[Cifrado de un archivo](/Localization/ES/Encryption)** - Ofrece una breve visión general del cifrado y proporciona un ejemplo de una forma de cifrar un archivo con el software disponible en Mercy Corps.
 
 Aunque la guía está destinada principalmente al personal de Mercy Corps, y está diseñada para acompañar el [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit), la publicamos con una licencia abierta para el beneficio de los socios, las organizaciones homólogas y otras personas que necesiten ejemplos de políticas, plantillas e instrucciones para la implementación de prácticas de datos responsables. .
 

@@ -4,8 +4,8 @@ Le contenu ci-après est conçu pour aider le personnel de Mercy Corps à mieux 
 - **[Comprendre les données sensibles](/Localization/FR/Sensitive-data)** - Définit ce que sont les données sensibles et fournit des conseils pour leur collecte et leur utilisation.
 - **[Évaluation des incidences sur la confidentialité (PIA)](/Localization/FR/Privacy-impact-assessment)** - Fournit des détails concernant les PIA et les modèles d'évaluation requis par la politique de Mercy Corps en matière de données responsables.
 - **[Meilleures pratiques en matière de partage de fichiers](/Localization/FR/File-sharing)** - Donne un aperçu des meilleures pratiques d'utilisation de G Suite à Mercy Corps et un bref tutoriel..
-- **[Deidentification](/Localization/FR/Deidentification)** - Fournit un bref aperçu du cryptage et donne un exemple d'une façon de crypter un fichier en utilisant un logiciel disponible au sein de Mercy Corps.
-- **[Cryptage d'un fichier](/Localization/FR/Encryption)** - Contient un aperçu de la désidentification - y compris l'anonymisation et la pseudonymisation - et un exemple d'une façon de désidentifier un ensemble de données à l'aide d'un tableur.
+- **[Deidentification](/Localization/FR/Deidentification)** - Contient un aperçu de la désidentification - y compris l'anonymisation et la pseudonymisation - et un exemple d'une façon de désidentifier un ensemble de données à l'aide d'un tableur.
+- **[Cryptage d'un fichier](/Localization/FR/Encryption)** - Fournit un bref aperçu du cryptage et donne un exemple d'une façon de crypter un fichier en utilisant un logiciel disponible au sein de Mercy Corps.
 
 Bien que le guide soit principalement destiné au personnel de Mercy Corps et qu'il ait été conçu pour accompagner le [Responsible Data Toolkit](https://www.mercycorps.org/research-resources/responsible-data-toolkit), nous le publions sous licence ouverte afin qu'il puisse bénéficier aux partenaires, aux organisations homologues et à d'autres personnes ayant besoin d'exemples de politiques, de modèles et d'instructions pour mettre en œuvre des pratiques de données responsables.
 
