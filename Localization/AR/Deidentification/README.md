@@ -1,6 +1,6 @@
 <div dir=rtl>
 
-**تنسيقات أخرى**: راجع [مقاطع الفيديو المقترنة بهذا الدليل هنا] (https://youtu.be/MX0Y1UjL73g). الوصول إلى الدليل [بصيغة PDF هنا.](https://dldocs.mercycorps.org/DPPDeidentifyingDataGuideAR.pdf)
+**تنسيقات أخرى**: راجع [مقاطع الفيديو المقترنة بهذا الدليل هنا](https://youtu.be/MX0Y1UjL73g). الوصول إلى الدليل [بصيغة PDF هنا.](https://dldocs.mercycorps.org/DPPDeidentifyingDataGuideAR.pdf)
 
 # إزالة تعريف البيانات
 
