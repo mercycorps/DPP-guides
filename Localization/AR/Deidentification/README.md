@@ -49,9 +49,6 @@
 ## مساعدة إضافية
  تعد عملية تحديد البيانات جزءًا من ممارسات الإدارة الجيدة للبيانات، ودورة حياة البيانات الأكبر ، وهي الأنشطة العامة لجمع البيانات الفردية كجزء من برنامج أو استجابة. تعد الموارد التالية مواقع ممتازة للبدء منها في فهم أكثر نُضجًا لإدارة بياناتك بمسؤولية.
  -  إن مجموعة أدوات شراكة التعلم النقدي لمسؤولية البياناتمُصممة على وجه التحديد لمُستخدمي النقد والقسائم، ولكنها معيار ذهبي في توجيه البيانات المسؤولة. مجموعة الأدوات متاحة [بالإنجليزية](https://www.calpnetwork.org/wp-content/uploads/2021/03/Data-Responsibility-Toolkit_A-guide-for-Cash-and-Voucher-Practitioners.pdf) و [لعربية](https://www.calpnetwork.org/ar/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/) و [الفرنسية](https://www.calpnetwork.org/fr/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/)  و [لأسبانية](https://www.calpnetwork.org/es/publication/data-responsibility-toolkit-a-guide-for-cva-practitioners/).
-
  - تُتيح [شبكة عمل تعلم التحويل النقدي الإلكتروني مجموعة أدوات بدء البيانات للموظفين الميدانيين في المجال الإنساني](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) يوفر سلسلة من أوراق النصائح الخاصة بالبيانات لفهم الجوانب المختلفة لإدارة البيانات الجيدة وممارسات الحماية.
-
  - دليل اللجنة الدولية للصليب الأحمر [لحماية البيانات في العمل الإنساني](https://www.icrc.org/en/data-protection-humanitarian-action-handbook) وهو دليل مفصل لكل جانب من جوانب البيانات الإنسانية تقريباُ. يتناول الفصل 2 تحديدًا إزالة تعريف البيانات.
-
  -   دليل Engine Room [الاختصاصي التنمية الحديثة نظرة عامة جيدة للبيانات في سياق أنشطة](https://the-engine-room.github.io/responsible-data-handbook/) التنمية الدولية. يتناول [قسممُشاركة البيانات](https://the-engine-room.github.io/responsible-data-handbook/chapters/chapter-02c-sharing-data.html) على وجه التحديد إزالة الهوية.
