@@ -2,7 +2,7 @@
 - [Будь ласка, знайдіть український переклад цього контенту тут](Localization/UA).
 - Veuillez trouver [la traduction française de ce contenu ici](Localization/FR).
 - Encuentre [la traducción al español de este contenido aquí](Localization/ES).
-- Please find the Arabic translation of this content here. **In Progress**  
+- [Please find the Arabic translation of this content here](Localization/AR).  
 - [Здесь вы найдете русский перевод этого содержания](Localization/RU).
 
 # Data Protection & Privacy Guides
